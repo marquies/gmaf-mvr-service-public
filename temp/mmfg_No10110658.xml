@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110658</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1401</name>
+                    <childNodes/>
+                    <textAnnotation>verfremdet:
+Gang durch Ortschaft
+Wohngebiet in Dortmund-Brackel 
+
+Antextbild: Jutta Wirth mit Einkaufstüten läuft vorbei
+O-Ton Jutta Wirth, Betroffene (man realisiert das nicht, dass das so ist; sind ja nicht getroffen worden, haben nur ein komisches Geräusch gehört, hätte ja auch was anderes sein können; war kein Geräusch, wo sie denken, jetzt liegt ein Heckenschütze im Gebüsch)
+
+O-Töne Passanten (ist beängstigend, man fühlt sich normalerweise sicher, schon merkwürdiges Gefühl)
+
+Google-Earth-Grafik: Grünfläche in Dortmund Brackel  
+
+Andreas Dorpmüller nimmt Luftgewehr aus Schrank
+Dorpmüller zielt mit Luft-Gewehr
+O-Ton Andreas Dorpmüller, Waffenexperte (im Prinzip kann Kugel in Muskel eintreten, stecken bleiben, sodass sie operativ entfernt werden muss; oder wenn man das Auge trifft, kann es passieren, dass das Auge so geschädigt ist, dass man blind wird)
+
+Polizei-Bus fährt Straße entlang
+
+O-Ton Jutta Wirth, wütende Anwohnerin (ist komplett daneben; der Mensch soll ja wohl 30 sein oder so, ab 14 ist das mit dem dummen Jungen vorbei, die sollten dann schon denken können)
+
+verfremdet:
+laufende Beine in Damenstiefeln
+zielende Waffe</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H01M56S50N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>btg_a2_sniper_110119.mov</title>
+        <videoInfo>Sniper
+Er wollte mit seinem Hund Gassi gehen, wie jeden Tag. Doch gestern Mittag – viertel nach zwölf – kommt alles ganz anders. Ein lauter Knall und plötzlich schlägt etwas neben ihm im Boden ein. Jemand hat auf den Dortmunder geschossen. Jetzt ermittelt die Polizei. Malin Körner und Karoline Rösner berichten.</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-01-19</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/btg_a2_sniper_110119.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

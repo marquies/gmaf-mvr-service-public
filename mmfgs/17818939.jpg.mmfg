@@ -1,0 +1,1241 @@
+<de.swa.mmfg.MMFG>
+  <nodes>
+    <de.swa.mmfg.Node>
+      <name>Root-Image</name>
+      <childNodes>
+        <de.swa.mmfg.Node>
+          <name>Water</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context>
+                <name>Default</name>
+                <id>b6042c27-8efb-41b9-a7e2-441b7b420611</id>
+              </context>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>0</relative__x>
+              <relative__y>0</relative__y>
+              <width>0</width>
+              <height>0</height>
+              <sharpness>0.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships/>
+          <compositionRelationships>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>5</type>
+            </de.swa.mmfg.CompositionRelationship>
+          </compositionRelationships>
+          <assetLinks/>
+          <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Building</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>0</relative__x>
+              <relative__y>0</relative__y>
+              <width>0</width>
+              <height>0</height>
+              <sharpness>0.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships/>
+          <compositionRelationships>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>5</type>
+            </de.swa.mmfg.CompositionRelationship>
+          </compositionRelationships>
+          <assetLinks/>
+          <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Skyscraper</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>0</relative__x>
+              <relative__y>0</relative__y>
+              <width>0</width>
+              <height>0</height>
+              <sharpness>0.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships/>
+          <compositionRelationships>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>5</type>
+            </de.swa.mmfg.CompositionRelationship>
+          </compositionRelationships>
+          <assetLinks/>
+          <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sky</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>0</relative__x>
+              <relative__y>0</relative__y>
+              <width>0</width>
+              <height>0</height>
+              <sharpness>0.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships/>
+          <compositionRelationships>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>5</type>
+            </de.swa.mmfg.CompositionRelationship>
+          </compositionRelationships>
+          <assetLinks/>
+          <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Water resources</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>0</relative__x>
+              <relative__y>0</relative__y>
+              <width>0</width>
+              <height>0</height>
+              <sharpness>0.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships/>
+          <compositionRelationships>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>5</type>
+            </de.swa.mmfg.CompositionRelationship>
+          </compositionRelationships>
+          <assetLinks/>
+          <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Daytime</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>0</relative__x>
+              <relative__y>0</relative__y>
+              <width>0</width>
+              <height>0</height>
+              <sharpness>0.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships/>
+          <compositionRelationships>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>5</type>
+            </de.swa.mmfg.CompositionRelationship>
+          </compositionRelationships>
+          <assetLinks/>
+          <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Nature</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>0</relative__x>
+              <relative__y>0</relative__y>
+              <width>0</width>
+              <height>0</height>
+              <sharpness>0.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships/>
+          <compositionRelationships>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>5</type>
+            </de.swa.mmfg.CompositionRelationship>
+          </compositionRelationships>
+          <assetLinks/>
+          <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Dusk</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>0</relative__x>
+              <relative__y>0</relative__y>
+              <width>0</width>
+              <height>0</height>
+              <sharpness>0.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships/>
+          <compositionRelationships>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>5</type>
+            </de.swa.mmfg.CompositionRelationship>
+          </compositionRelationships>
+          <assetLinks/>
+          <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>World</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>0</relative__x>
+              <relative__y>0</relative__y>
+              <width>0</width>
+              <height>0</height>
+              <sharpness>0.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships/>
+          <compositionRelationships>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>5</type>
+            </de.swa.mmfg.CompositionRelationship>
+          </compositionRelationships>
+          <assetLinks/>
+          <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Tower block</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>0</relative__x>
+              <relative__y>0</relative__y>
+              <width>0</width>
+              <height>0</height>
+              <sharpness>0.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships/>
+          <compositionRelationships>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>5</type>
+            </de.swa.mmfg.CompositionRelationship>
+          </compositionRelationships>
+          <assetLinks/>
+          <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Brooklyn Bridge Park</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>231</relative__x>
+              <relative__y>347</relative__y>
+              <width>1110</width>
+              <height>145</height>
+              <sharpness>0.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships/>
+          <compositionRelationships>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>5</type>
+            </de.swa.mmfg.CompositionRelationship>
+          </compositionRelationships>
+          <assetLinks/>
+          <detectedBy>de.swa.gmaf.plugin.googlevision.LandmarkDetection</detectedBy>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Empire State Building</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>81</relative__x>
+              <relative__y>347</relative__y>
+              <width>983</width>
+              <height>369</height>
+              <sharpness>0.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships/>
+          <compositionRelationships>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>5</type>
+            </de.swa.mmfg.CompositionRelationship>
+          </compositionRelationships>
+          <assetLinks/>
+          <detectedBy>de.swa.gmaf.plugin.googlevision.LandmarkDetection</detectedBy>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Building_1</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>Skyscraper</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                  <relative__x>0</relative__x>
+                  <relative__y>0</relative__y>
+                  <width>0</width>
+                  <height>0</height>
+                  <sharpness>0.0</sharpness>
+                  <blurryness>0.0</blurryness>
+                  <dominantColors/>
+                </de.swa.mmfg.TechnicalAttribute>
+              </technicalAttributes>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>5</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Building</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                  <relative__x>0</relative__x>
+                  <relative__y>0</relative__y>
+                  <width>0</width>
+                  <height>0</height>
+                  <sharpness>0.0</sharpness>
+                  <blurryness>0.0</blurryness>
+                  <dominantColors/>
+                </de.swa.mmfg.TechnicalAttribute>
+              </technicalAttributes>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>5</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Property</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                  <relative__x>0</relative__x>
+                  <relative__y>0</relative__y>
+                  <width>0</width>
+                  <height>0</height>
+                  <sharpness>0.0</sharpness>
+                  <blurryness>0.0</blurryness>
+                  <dominantColors/>
+                </de.swa.mmfg.TechnicalAttribute>
+              </technicalAttributes>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>5</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Sky</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                  <relative__x>0</relative__x>
+                  <relative__y>0</relative__y>
+                  <width>0</width>
+                  <height>0</height>
+                  <sharpness>0.0</sharpness>
+                  <blurryness>0.0</blurryness>
+                  <dominantColors/>
+                </de.swa.mmfg.TechnicalAttribute>
+              </technicalAttributes>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>5</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Tower</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                  <relative__x>0</relative__x>
+                  <relative__y>0</relative__y>
+                  <width>0</width>
+                  <height>0</height>
+                  <sharpness>0.0</sharpness>
+                  <blurryness>0.0</blurryness>
+                  <dominantColors/>
+                </de.swa.mmfg.TechnicalAttribute>
+              </technicalAttributes>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>5</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Tower block</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                  <relative__x>0</relative__x>
+                  <relative__y>0</relative__y>
+                  <width>0</width>
+                  <height>0</height>
+                  <sharpness>0.0</sharpness>
+                  <blurryness>0.0</blurryness>
+                  <dominantColors/>
+                </de.swa.mmfg.TechnicalAttribute>
+              </technicalAttributes>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>5</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Urban design</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                  <relative__x>0</relative__x>
+                  <relative__y>0</relative__y>
+                  <width>0</width>
+                  <height>0</height>
+                  <sharpness>0.0</sharpness>
+                  <blurryness>0.0</blurryness>
+                  <dominantColors/>
+                </de.swa.mmfg.TechnicalAttribute>
+              </technicalAttributes>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>5</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Condominium</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                  <relative__x>0</relative__x>
+                  <relative__y>0</relative__y>
+                  <width>0</width>
+                  <height>0</height>
+                  <sharpness>0.0</sharpness>
+                  <blurryness>0.0</blurryness>
+                  <dominantColors/>
+                </de.swa.mmfg.TechnicalAttribute>
+              </technicalAttributes>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>5</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Commercial building</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                  <relative__x>0</relative__x>
+                  <relative__y>0</relative__y>
+                  <width>0</width>
+                  <height>0</height>
+                  <sharpness>0.0</sharpness>
+                  <blurryness>0.0</blurryness>
+                  <dominantColors/>
+                </de.swa.mmfg.TechnicalAttribute>
+              </technicalAttributes>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>5</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Facade</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                  <relative__x>0</relative__x>
+                  <relative__y>0</relative__y>
+                  <width>0</width>
+                  <height>0</height>
+                  <sharpness>0.0</sharpness>
+                  <blurryness>0.0</blurryness>
+                  <dominantColors/>
+                </de.swa.mmfg.TechnicalAttribute>
+              </technicalAttributes>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>5</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Building_1</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships>
+                <de.swa.mmfg.SemanticRelationship>
+                  <relatedNode>https://kgsearch.googleapis.com/v1/id//m/0cgh4</relatedNode>
+                  <description>Google Knowledge Graph ID: /m/0cgh4</description>
+                </de.swa.mmfg.SemanticRelationship>
+              </semanticRelationships>
+              <compositionRelationships/>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.ObjectDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>26</relative__x>
+              <relative__y>332</relative__y>
+              <width>263</width>
+              <height>440</height>
+              <sharpness>0.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships>
+            <de.swa.mmfg.SemanticRelationship>
+              <relatedNode>https://kgsearch.googleapis.com/v1/id//m/0cgh4</relatedNode>
+              <description>Google Knowledge Graph ID: /m/0cgh4</description>
+            </de.swa.mmfg.SemanticRelationship>
+          </semanticRelationships>
+          <compositionRelationships/>
+          <assetLinks/>
+          <detectedBy>de.swa.gmaf.plugin.googlevision.ObjectDetection</detectedBy>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Building_2</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>603</relative__x>
+              <relative__y>371</relative__y>
+              <width>178</width>
+              <height>380</height>
+              <sharpness>0.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships>
+            <de.swa.mmfg.SemanticRelationship>
+              <relatedNode>https://kgsearch.googleapis.com/v1/id//m/0cgh4</relatedNode>
+              <description>Google Knowledge Graph ID: /m/0cgh4</description>
+            </de.swa.mmfg.SemanticRelationship>
+          </semanticRelationships>
+          <compositionRelationships/>
+          <assetLinks/>
+          <detectedBy>de.swa.gmaf.plugin.googlevision.ObjectDetection</detectedBy>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Building_3</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>290</relative__x>
+              <relative__y>377</relative__y>
+              <width>152</width>
+              <height>369</height>
+              <sharpness>0.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships>
+            <de.swa.mmfg.SemanticRelationship>
+              <relatedNode>https://kgsearch.googleapis.com/v1/id//m/0cgh4</relatedNode>
+              <description>Google Knowledge Graph ID: /m/0cgh4</description>
+            </de.swa.mmfg.SemanticRelationship>
+          </semanticRelationships>
+          <compositionRelationships/>
+          <assetLinks/>
+          <detectedBy>de.swa.gmaf.plugin.googlevision.ObjectDetection</detectedBy>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Building_4</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>1903</relative__x>
+              <relative__y>264</relative__y>
+              <width>134</width>
+              <height>474</height>
+              <sharpness>0.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships>
+            <de.swa.mmfg.SemanticRelationship>
+              <relatedNode>https://kgsearch.googleapis.com/v1/id//m/0cgh4</relatedNode>
+              <description>Google Knowledge Graph ID: /m/0cgh4</description>
+            </de.swa.mmfg.SemanticRelationship>
+          </semanticRelationships>
+          <compositionRelationships/>
+          <assetLinks/>
+          <detectedBy>de.swa.gmaf.plugin.googlevision.ObjectDetection</detectedBy>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Building_5</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>Building</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                  <relative__x>0</relative__x>
+                  <relative__y>0</relative__y>
+                  <width>0</width>
+                  <height>0</height>
+                  <sharpness>0.0</sharpness>
+                  <blurryness>0.0</blurryness>
+                  <dominantColors/>
+                </de.swa.mmfg.TechnicalAttribute>
+              </technicalAttributes>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>5</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Tower block</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                  <relative__x>0</relative__x>
+                  <relative__y>0</relative__y>
+                  <width>0</width>
+                  <height>0</height>
+                  <sharpness>0.0</sharpness>
+                  <blurryness>0.0</blurryness>
+                  <dominantColors/>
+                </de.swa.mmfg.TechnicalAttribute>
+              </technicalAttributes>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>5</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Urban design</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                  <relative__x>0</relative__x>
+                  <relative__y>0</relative__y>
+                  <width>0</width>
+                  <height>0</height>
+                  <sharpness>0.0</sharpness>
+                  <blurryness>0.0</blurryness>
+                  <dominantColors/>
+                </de.swa.mmfg.TechnicalAttribute>
+              </technicalAttributes>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>5</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Sky</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                  <relative__x>0</relative__x>
+                  <relative__y>0</relative__y>
+                  <width>0</width>
+                  <height>0</height>
+                  <sharpness>0.0</sharpness>
+                  <blurryness>0.0</blurryness>
+                  <dominantColors/>
+                </de.swa.mmfg.TechnicalAttribute>
+              </technicalAttributes>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>5</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Condominium</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                  <relative__x>0</relative__x>
+                  <relative__y>0</relative__y>
+                  <width>0</width>
+                  <height>0</height>
+                  <sharpness>0.0</sharpness>
+                  <blurryness>0.0</blurryness>
+                  <dominantColors/>
+                </de.swa.mmfg.TechnicalAttribute>
+              </technicalAttributes>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>5</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Facade</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                  <relative__x>0</relative__x>
+                  <relative__y>0</relative__y>
+                  <width>0</width>
+                  <height>0</height>
+                  <sharpness>0.0</sharpness>
+                  <blurryness>0.0</blurryness>
+                  <dominantColors/>
+                </de.swa.mmfg.TechnicalAttribute>
+              </technicalAttributes>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>5</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>City</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                  <relative__x>0</relative__x>
+                  <relative__y>0</relative__y>
+                  <width>0</width>
+                  <height>0</height>
+                  <sharpness>0.0</sharpness>
+                  <blurryness>0.0</blurryness>
+                  <dominantColors/>
+                </de.swa.mmfg.TechnicalAttribute>
+              </technicalAttributes>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>5</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Commercial building</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                  <relative__x>0</relative__x>
+                  <relative__y>0</relative__y>
+                  <width>0</width>
+                  <height>0</height>
+                  <sharpness>0.0</sharpness>
+                  <blurryness>0.0</blurryness>
+                  <dominantColors/>
+                </de.swa.mmfg.TechnicalAttribute>
+              </technicalAttributes>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>5</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Engineering</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                  <relative__x>0</relative__x>
+                  <relative__y>0</relative__y>
+                  <width>0</width>
+                  <height>0</height>
+                  <sharpness>0.0</sharpness>
+                  <blurryness>0.0</blurryness>
+                  <dominantColors/>
+                </de.swa.mmfg.TechnicalAttribute>
+              </technicalAttributes>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>5</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Metal</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                  <relative__x>0</relative__x>
+                  <relative__y>0</relative__y>
+                  <width>0</width>
+                  <height>0</height>
+                  <sharpness>0.0</sharpness>
+                  <blurryness>0.0</blurryness>
+                  <dominantColors/>
+                </de.swa.mmfg.TechnicalAttribute>
+              </technicalAttributes>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>5</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.LabelDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Building_1</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships>
+                <de.swa.mmfg.SemanticRelationship>
+                  <relatedNode>https://kgsearch.googleapis.com/v1/id//m/0cgh4</relatedNode>
+                  <description>Google Knowledge Graph ID: /m/0cgh4</description>
+                </de.swa.mmfg.SemanticRelationship>
+              </semanticRelationships>
+              <compositionRelationships/>
+              <assetLinks/>
+              <detectedBy>de.swa.gmaf.plugin.googlevision.ObjectDetection</detectedBy>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>392</relative__x>
+              <relative__y>521</relative__y>
+              <width>218</width>
+              <height>216</height>
+              <sharpness>0.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships>
+            <de.swa.mmfg.SemanticRelationship>
+              <relatedNode>https://kgsearch.googleapis.com/v1/id//m/0cgh4</relatedNode>
+              <description>Google Knowledge Graph ID: /m/0cgh4</description>
+            </de.swa.mmfg.SemanticRelationship>
+          </semanticRelationships>
+          <compositionRelationships/>
+          <assetLinks/>
+          <detectedBy>de.swa.gmaf.plugin.googlevision.ObjectDetection</detectedBy>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+      </childNodes>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+  </nodes>
+  <locations>
+    <de.swa.mmfg.Location>
+      <type>0</type>
+      <name>17818939.jpg</name>
+    </de.swa.mmfg.Location>
+    <de.swa.mmfg.Location>
+      <type>0</type>
+      <location>http://dev.step2e.de/ad783b35-e8fb-4b06-b0f8-eb8a73c134c1.jpg</location>
+      <name>http://dev.step2e.de/ad783b35-e8fb-4b06-b0f8-eb8a73c134c1.jpg</name>
+    </de.swa.mmfg.Location>
+    <de.swa.mmfg.Location>
+      <type>0</type>
+      <location>file:////var/folders/b9/hyf54cyx499_svb1n2vcf5380000gn/T/GMAF_TMP_330390234135540265.jpg</location>
+      <name>GMAF_TMP_330390234135540265.jpg</name>
+    </de.swa.mmfg.Location>
+  </locations>
+  <currentNode reference="../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[17]"/>
+  <allNodes>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[2]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[3]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[4]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[5]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[6]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[7]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[8]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[9]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[10]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[11]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[12]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[13]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[14]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[15]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[16]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[17]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[13]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[13]/childNodes/de.swa.mmfg.Node[2]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[13]/childNodes/de.swa.mmfg.Node[3]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[13]/childNodes/de.swa.mmfg.Node[4]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[13]/childNodes/de.swa.mmfg.Node[5]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[13]/childNodes/de.swa.mmfg.Node[6]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[13]/childNodes/de.swa.mmfg.Node[7]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[13]/childNodes/de.swa.mmfg.Node[8]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[13]/childNodes/de.swa.mmfg.Node[9]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[13]/childNodes/de.swa.mmfg.Node[10]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[13]/childNodes/de.swa.mmfg.Node[11]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[17]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[17]/childNodes/de.swa.mmfg.Node[2]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[17]/childNodes/de.swa.mmfg.Node[3]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[17]/childNodes/de.swa.mmfg.Node[4]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[17]/childNodes/de.swa.mmfg.Node[5]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[17]/childNodes/de.swa.mmfg.Node[6]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[17]/childNodes/de.swa.mmfg.Node[7]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[17]/childNodes/de.swa.mmfg.Node[8]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[17]/childNodes/de.swa.mmfg.Node[9]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[17]/childNodes/de.swa.mmfg.Node[10]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[17]/childNodes/de.swa.mmfg.Node[11]"/>
+  </allNodes>
+</de.swa.mmfg.MMFG>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110683</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1389</name>
+                    <childNodes/>
+                    <textAnnotation>Nacht:
+
+Haus außen nach Hausbrand in Witten
+Feuerwehrleute auf Straße vor Brandhaus
+Absperrband am Brandort
+Bestatter schieben Bahre mit abgedeckter Leiche in Leichenwagen
+Leichenwagen fährt rückwärts
+O-Ton Feuerwehrmann</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H06M26S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+                <de.swa.mmfg.Node>
+                    <name>No1390</name>
+                    <childNodes/>
+                    <textAnnotation>Nacht: 
+
+Feuerwehrfahrzeuge auf Straße
+Feuerwehrmänner vor Brandhaus
+Einsatzkräfte schieben Bahre zu Krankenwagen
+Feuerwehrleute bei Löscharbeiten auf Hebebühne / Wohnungsbrand Mehrfamilienhaus
+Straßenschild Mittelstraße</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:06:26:0</MediaTimePoint>
+                            <MediaDuration>PT00H09M29S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H09M29S16N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>arc_1_braende_110119.mov</title>
+        <videoInfo>Nif Braende / Brände
+Wiebold-Material frei für 17:30 NRW</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-01-19</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/arc_1_braende_110119.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

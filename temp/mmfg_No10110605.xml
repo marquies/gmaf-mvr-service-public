@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110605</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1373</name>
+                    <childNodes/>
+                    <textAnnotation>Schild: Netto Marken-Discount
+Werbung: Wieder Preise auf Dauer gesenkt im Schaufenster
+Netto-Filiale / Netto Supermarkt außen, teilweise im Vordergrund Hände halten Paprika</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H05M35S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+                <de.swa.mmfg.Node>
+                    <name>No1374</name>
+                    <childNodes/>
+                    <textAnnotation>Lidl Filiale / Lidl Supermarkt außen, teilweise im Vordergrund Paprika
+Lidl-Schild</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:05:35:0</MediaTimePoint>
+                            <MediaDuration>PT00H08M19S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+                <de.swa.mmfg.Node>
+                    <name>No1375</name>
+                    <childNodes/>
+                    <textAnnotation>Menschen im vegetarischen Restaurant Sattgrün in Düsseldorf
+Bio-Gerichte / Lebensmittel in Auslage</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:08:19:0</MediaTimePoint>
+                            <MediaDuration>PT00H11M37S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H11M37S333N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>arc_1_essenpfui_110118.mov</title>
+        <videoInfo>Essenpfui
+Rohmaterial</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-01-18</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/arc_1_essenpfui_110118.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

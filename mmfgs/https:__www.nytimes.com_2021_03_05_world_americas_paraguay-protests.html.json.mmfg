@@ -1,0 +1,3201 @@
+<de.swa.mmfg.MMFG>
+  <nodes>
+    <de.swa.mmfg.Node>
+      <name>Root-Asset</name>
+      <childNodes>
+        <de.swa.mmfg.Node>
+          <name>date</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>6 Mar 2021 03:20:04 GMT</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context>
+                    <name>Default</name>
+                    <id>bc3d4a5e-41f2-4051-8ba9-32fb87a92919</id>
+                  </context>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships/>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <detectedBy>class de.swa.gmaf.plugin.text.WashingtonPostIndexer</detectedBy>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>author</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>Reuters</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships/>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <detectedBy>class de.swa.gmaf.plugin.text.WashingtonPostIndexer</detectedBy>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>link</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>https://www.nytimes.com/2021/03/05/world/americas/paraguay-protests.html</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships/>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <detectedBy>class de.swa.gmaf.plugin.text.WashingtonPostIndexer</detectedBy>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Title</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>Paraguay</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_1</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>Paraguay</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Paraguay</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>rubber</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>bullet</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>fury</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>rose</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>handling</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_2</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>Paraguayan</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>8</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>10</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>rubber</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>8</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>10</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>bullet</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>8</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>10</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_3</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_4</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>Paraguay</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>10</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>clash</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>10</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>anger</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>10</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>handling</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>10</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>resignation</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>10</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_5</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>rubber</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>10</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>bullet</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>10</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>barrier</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>10</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>stone</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>10</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_6</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>outrage</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>8</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>collapse</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>8</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>Paraguay</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>8</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_7</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>stone</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>rubber</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>bullet</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_8</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_9</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>pity</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_10</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>channel</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>8</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>10</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_11</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_12</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>ouster</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>8</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_13</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_14</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>Latin</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>anger</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>handling</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>pandemic</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_15</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_16</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_17</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_18</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>medicine</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_19</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>Paraguay</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>8</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>8</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+            <de.swa.mmfg.Node>
+              <name>posting</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>7</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>8</type>
+                </de.swa.mmfg.CompositionRelationship>
+                <de.swa.mmfg.CompositionRelationship>
+                  <type>8</type>
+                </de.swa.mmfg.CompositionRelationship>
+              </compositionRelationships>
+              <assetLinks/>
+              <fv reference="../../../../../../.."/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_20</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_21</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Sentence_22</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+      </childNodes>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+  </nodes>
+  <generalMetadata>
+    <longitude>0</longitude>
+    <latitude>0</latitude>
+    <aperture>0.0</aperture>
+    <exposure>0.0</exposure>
+    <focalLength>0</focalLength>
+    <resolution>0</resolution>
+    <width>0</width>
+    <height>0</height>
+    <fileSize>0</fileSize>
+    <iso>0</iso>
+    <shutterSpeed>0</shutterSpeed>
+    <fileName>https:__www.nytimes.com_2021_03_05_world_americas_paraguay-protests.html.json</fileName>
+  </generalMetadata>
+  <locations>
+    <de.swa.mmfg.Location>
+      <type>0</type>
+      <name>https:__www.nytimes.com_2021_03_05_world_americas_paraguay-protests.html.json</name>
+    </de.swa.mmfg.Location>
+    <de.swa.mmfg.Location>
+      <type>0</type>
+      <location>http://dev.step2e.de/5ad4d785-39b1-4002-874c-bc206b517340.json</location>
+      <name>http://dev.step2e.de/5ad4d785-39b1-4002-874c-bc206b517340.json</name>
+    </de.swa.mmfg.Location>
+  </locations>
+  <currentNode reference="../nodes/de.swa.mmfg.Node"/>
+  <allNodes>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[2]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[2]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[3]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[3]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[4]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[4]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node>
+      <name>Paraguay</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[5]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[5]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node>
+      <name>Paraguay</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>Paraguay</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>rubber</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>bullet</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>fury</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>rose</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>handling</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[5]/childNodes/de.swa.mmfg.Node[2]"/>
+    <de.swa.mmfg.Node>
+      <name>Paraguay</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>rubber</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>bullet</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>fury</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>rose</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>handling</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[5]/childNodes/de.swa.mmfg.Node[3]"/>
+    <de.swa.mmfg.Node>
+      <name>rubber</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>bullet</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>fury</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>rose</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>handling</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[5]/childNodes/de.swa.mmfg.Node[4]"/>
+    <de.swa.mmfg.Node>
+      <name>bullet</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>fury</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>rose</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>handling</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[5]/childNodes/de.swa.mmfg.Node[5]"/>
+    <de.swa.mmfg.Node>
+      <name>fury</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>rose</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>handling</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[5]/childNodes/de.swa.mmfg.Node[6]"/>
+    <de.swa.mmfg.Node>
+      <name>rose</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>handling</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[5]/childNodes/de.swa.mmfg.Node[7]"/>
+    <de.swa.mmfg.Node>
+      <name>handling</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[6]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[6]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node>
+      <name>Paraguayan</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>rubber</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>bullet</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>disperse</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>troubled</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[6]/childNodes/de.swa.mmfg.Node[2]"/>
+    <de.swa.mmfg.Node>
+      <name>rubber</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>bullet</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>disperse</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>troubled</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[6]/childNodes/de.swa.mmfg.Node[3]"/>
+    <de.swa.mmfg.Node>
+      <name>bullet</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>disperse</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>troubled</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[7]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[8]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[8]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node>
+      <name>Paraguay</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>clash</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>anger</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>handling</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>resignation</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>boiled</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[8]/childNodes/de.swa.mmfg.Node[2]"/>
+    <de.swa.mmfg.Node>
+      <name>clash</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>anger</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>handling</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>resignation</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>boiled</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[8]/childNodes/de.swa.mmfg.Node[3]"/>
+    <de.swa.mmfg.Node>
+      <name>anger</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>handling</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>resignation</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>boiled</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[8]/childNodes/de.swa.mmfg.Node[4]"/>
+    <de.swa.mmfg.Node>
+      <name>handling</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>resignation</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>boiled</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[8]/childNodes/de.swa.mmfg.Node[5]"/>
+    <de.swa.mmfg.Node>
+      <name>resignation</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>boiled</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[9]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[9]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node>
+      <name>rubber</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>bullet</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>barrier</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>stone</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>burned</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[9]/childNodes/de.swa.mmfg.Node[2]"/>
+    <de.swa.mmfg.Node>
+      <name>bullet</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>barrier</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>stone</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>burned</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[9]/childNodes/de.swa.mmfg.Node[3]"/>
+    <de.swa.mmfg.Node>
+      <name>barrier</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>stone</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>burned</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[9]/childNodes/de.swa.mmfg.Node[4]"/>
+    <de.swa.mmfg.Node>
+      <name>stone</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>burned</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[10]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[10]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node>
+      <name>outrage</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>collapse</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>Paraguay</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>infect</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[10]/childNodes/de.swa.mmfg.Node[2]"/>
+    <de.swa.mmfg.Node>
+      <name>collapse</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>Paraguay</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>infect</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[10]/childNodes/de.swa.mmfg.Node[3]"/>
+    <de.swa.mmfg.Node>
+      <name>Paraguay</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>infect</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[11]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[11]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node>
+      <name>stone</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>rubber</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>bullet</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[11]/childNodes/de.swa.mmfg.Node[2]"/>
+    <de.swa.mmfg.Node>
+      <name>rubber</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>bullet</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[11]/childNodes/de.swa.mmfg.Node[3]"/>
+    <de.swa.mmfg.Node>
+      <name>bullet</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[12]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[13]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[13]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node>
+      <name>pity</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[14]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[14]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node>
+      <name>channel</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>destroy</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>interior</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[15]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[16]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[16]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node>
+      <name>ouster</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>resign</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[17]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[18]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[18]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node>
+      <name>Latin</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>anger</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>handling</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>pandemic</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[18]/childNodes/de.swa.mmfg.Node[2]"/>
+    <de.swa.mmfg.Node>
+      <name>anger</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>handling</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>pandemic</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[18]/childNodes/de.swa.mmfg.Node[3]"/>
+    <de.swa.mmfg.Node>
+      <name>handling</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>pandemic</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[18]/childNodes/de.swa.mmfg.Node[4]"/>
+    <de.swa.mmfg.Node>
+      <name>pandemic</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[19]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[20]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[21]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[22]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[22]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node>
+      <name>medicine</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[23]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[23]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node>
+      <name>Paraguay</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>posting</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>tally</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>infect</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[23]/childNodes/de.swa.mmfg.Node[2]"/>
+    <de.swa.mmfg.Node>
+      <name>posting</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>tally</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node>
+      <name>infect</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[24]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[25]"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node[26]"/>
+  </allNodes>
+  <collectionElements/>
+</de.swa.mmfg.MMFG>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110800</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1438</name>
+                    <childNodes/>
+                    <textAnnotation>Bungee- Sprung vom Dortmunder Fernsehturm
+Landgericht außen 
+
+Feuerwehrmänner an Unglücksstelle</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H00M27S50N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>nif4_a_bungee_110121.mov</title>
+        <videoInfo>Bungee</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-01-21</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/nif4_a_bungee_110121.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

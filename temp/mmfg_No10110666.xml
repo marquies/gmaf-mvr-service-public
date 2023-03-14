@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110666</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1397</name>
+                    <childNodes/>
+                    <textAnnotation>Gedenkstätte für Opfer der Massenpanik bei der Loveparade
+Fotos Opfer
+Holzkreuze mit Opfer-Namen an Unglücks-Treppe
+Antextbild: 43-jährige Kornelia Hendrix an Unglücksstelle zündet Kerzen an</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H03M42S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+                <de.swa.mmfg.Node>
+                    <name>No1398</name>
+                    <childNodes/>
+                    <textAnnotation>Rathaus Duisburg außen
+wehende Duisburg-Fahne</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:03:42:0</MediaTimePoint>
+                            <MediaDuration>PT00H05M13S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H05M13S66N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>arc_1_paradeschuld_110119.mov</title>
+        <videoInfo>Paradeschuld
+Rohmaterial</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-01-19</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/arc_1_paradeschuld_110119.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110569</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1995</name>
+                    <childNodes/>
+                    <textAnnotation>Billardspiel / Kugel mit Queue anstoßen
+23-jährige Deniz und Jugendliche mit Kopftuch / Moslems spielen Billard im Mehrgenerationenhaus / Jugendzentrum / Jugendtreff
+
+O-Ton Deniz, Sohn türkischer Einwanderer (wenn er Nachrichten hört, die Muslime mit Terroranschlägen in Verbindung bringen, fühlt er sich angesprochen, weil er selber Moslem ist; macht ihn wütend, weil er so nicht ist)
+
+Friederike Müller hilft Jugendlichen mit Migrationshintergrund bei Hausaufgaben
+O-Ton Friederike Müller, Leiterin Mehrgenerationenhaus (Rassismus, der Raum bekommen hat; wo man dachte, der wäre überwundem, wo große gesellschaftliche Gruppe der türkischen oder arabisch-stämmigen Migranten kriminalisiert werden; traurige Debatte)
+
+O-Ton Deniz, Deutsch-Türke (als Migrant nicht, weil er hier geboren und aufgewachsen ist; trotzdem wird er hier als Ausländer gesehen; Problem ist, wenn er in der Türkai ist, ist er dort ein Tourist)
+
+Plakat zum Mehrgenerationenhaus
+
+O-Ton Deniz, Auszubildender (hat sich riesig gefreut wenn er im Deutschunterricht ne bessere Note bekam, als ein anderer deutscher Mitschüler; ist Schulsprecher)
+
+Jugendlichen mit Migrationshintergrund machen Hausaufgaben</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H02M28S0N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>btg_a_integrationstreff_101102.mov</title>
+        <videoInfo>Integrationstreff
+Menschen mit Migrationshintergrund haben es derzeit nicht immer leicht in Deutschland.  Besonders Jugendliche stehen im Fokus der Öffentlichkeit. Dabei haben sie es besonders schwer: Sie müssen ihren Platz im Leben häufig irgendwo zwischen zwei Kulturen finden und stoßen dabei nicht selten auf Ablehnung. Der Bochumer Verein für multikulturelle Kinder-, Jugend- und Migrationsarbeit arbeitet dagegen an – und bietet Jugendlichen einen Treffpunkt, wo sie sich mit ihren Problemen austauschen und unterstützen können. Leon Ahnesorg und Nadine Ramírez haben sie besucht.</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-02-28</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/btg_a_integrationstreff_101102.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

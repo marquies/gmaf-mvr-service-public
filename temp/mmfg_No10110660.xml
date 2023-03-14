@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110660</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1767</name>
+                    <childNodes/>
+                    <textAnnotation>Gesicht körperlich behinderter, 26-jähriger Stefan Kappenhagen 
+
+Bernd Kappenhagen-Material
+Privatfotos, von vor Unfall:
+Stefan mit Freunden
+Stefan im Urlaub an Bucht
+Bernd Kappenhagen-Material
+
+Archivbilder, nachgestellte Szene, verfremdet: 
+Auto fährt Straße entlang (gespiegelt, quasi Linksverkehr), stößt frontal mit entgegenkommenden Lkw zusammen
+Auto und Lkw´s stehen an Straßenrand, Krankenwagen fährt vorbei 
+
+Antextbild: Bernd Kappenhagen guckt durch Fotoalbum
+O-Ton Bernd Kappenhagen, Stefans Vater (war kritische Situation, weil Stefan auch jederzeit hätte sterben können)
+
+Privatfoto: Gesicht Stefan Kappenhagen - Bernd Kappenhagen-Material
+
+Archivbilder, verfremdet: 
+Monitor mit EKG 
+Operation
+
+O-Ton Stefan Kappenhagen (möchte nicht mehr viel über Unfall wissen, weil bester Kollege dabei gestorben ist)
+
+Foto: Stefan in Rollstuhl nach Operation - Bernd Kappenhagen-Material
+
+Außenansicht Pflegeheim 
+
+O-Ton Stefan Kappenhagen (Schönste war Besuch von Bekannten; Tag ein Tag aus ging da derselbe Scheiß ab; war nix für ihn)
+
+Vater sitzt am Computer, recherchiert im Internet
+Abgefilmte Wikipedia-Seite Schädel-Hirn-Trauma
+Hand an Computermaus
+
+Privatfoto: Stefan und Frau nach Unfall im Krankenhaus, Stefan liegt mit Schienen an Armen und Beinen im Krankenbett - Bernd Kappenhagen-Material
+
+Stefan im Rollstuhl, Vater schiebt Rollstuhl, fahren / gehen zu Wohnungstür
+Tür öffnet sich; zwei Frauen, zwei Männer freuen sich über Ankunft
+Frau umarmt Rollstuhlfahrer an Haustür
+
+O-Ton Bernd Kappenhagen, Stefans Vater (Familie ist wieder vollständig; man hat in ersten Wochen um sein Leben gezittert)
+
+Antextbild Arzt Alexander Darui beim Rezepte unterschreiben an seinem Schreibtisch
+O-Ton Alexander Darui, Hausarzt (einfach wird es nicht; wird auch Rückschläge geben, bedingt durch viele Medikamente, die er nimmt und Schmerzen, die er hat; schwieriger Weg)
+
+Stefan in Rollstuhl an Fitnessgerät, trainiert seine Beine 
+behinderter Stefan und Vater beim Memory spielen 
+Stapel von Memory-Karten
+
+O-Ton Stefan Kappenhagen (BVB ist im Moment Spitzenreiter und Herbstmeister, Jürgen Klopp ist voll gut drauf)
+
+Rollstuhlfahrer Stefan im BVB-Trikot mit Vater im Wohnzimmer vor Fernseher / Fußballspiel von Dortmund, Stefan schwingt BVB-Fahne</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H03M04S183N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>btg_a_rollikind_110117.mov</title>
+        <videoInfo>Rollikind
+
+Es gibt Momente im Leben, da weiß man einfach nicht mehr wie es weiter gehen soll. Dieses Gefühl der Verzweiflung kennt auch die Familie von Stefan Kappenhagen aus Borken-Burlo. Es ist nur eine Millisekunde gewesen, doch sie reichte schon aus, um das Leben des jungen Mannes komplett zu verändern. Dabei hatte er doch noch so viel vor. Pia Schrell erzählt Ihnen die ganze Geschichte.</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-02-08</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/btg_a_rollikind_110117.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

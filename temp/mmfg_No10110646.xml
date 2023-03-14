@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110646</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1384</name>
+                    <childNodes/>
+                    <textAnnotation>O-Töne Maik Grimmeck interviewt Norbert Röttgen, CDU, Parteivorsitzender NRW zum Thema Landesverfassungsgericht stoppt Nachtragshaushalt 2010</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H02M17S383N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>btg_a2_roettgenfragen_110119.mov</title>
+        <videoInfo>Roettgenfragen / Röttgenfragen
+Also, wird es Neuwahlen in NRW geben, oder nicht? Noch ist alles offen. Aber: "Wir stehen bereit," so Norbert Röttgen, der Vorsitzende der Landes-CDU. Was DAS jetzt genau bedeutet, wollte unser Politikreporter Maik Grimmeck wissen – und hat deshalb heute nachgefragt.</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-01-19</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/btg_a2_roettgenfragen_110119.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

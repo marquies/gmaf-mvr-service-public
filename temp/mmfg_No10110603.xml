@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110603</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1371</name>
+                    <childNodes/>
+                    <textAnnotation>Regen:
+
+Auto fährt langsam auf Landstraße in Hamm, dahinter bildet sich Autoschlange / Stau aus Lkws und Autos 
+Verkehrsschild: Höchstgeschwindigkeit 10 km/h
+Verkehr / viele Lkw auf Landstraße, mit erlaubter Höchstgeschwindigkeit von 10 km/h
+Straße mit Straßenschäden / Schlaglöcher
+Pfütze in Schlagloch
+Verkehrsschild: Achtung Straßenschäden,
+Radkappen am Straßenrand
+geplatzter Reifen auf Grünstreifen   
+subjektive, langsame Fahrt auf Landstraße, Lkw überholt
+Tacho zeigt Geschwindigkeit von 10 km/h
+
+gesperrte Dortmunder Straße in Unna / Straßensperrung</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H26M24S233N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>arc_1_schlagsperrung_110118.mov</title>
+        <videoInfo>Schlagsperrung
+Rohmaterial</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-01-18</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/arc_1_schlagsperrung_110118.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

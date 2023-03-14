@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110561</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1622</name>
+                    <childNodes/>
+                    <textAnnotation>Hunde / Möpse schlecken Löffel ab
+Caroline Lorenz mit ihren Hunden / mehrere Mops-Welpen
+
+O-Ton Caroline Lorenz, Mops-Mama (war eine der ersten Ausstellungen, als gesagt wurde, man solle ihm die Beine pudern, er sähe aus wie ein schwarzer Russe)
+
+Lorenz mit Hund Chimney beschauen sich Pokale 
+
+Foto: Lorenz mit Mops bei Preisverleihung – Caroline Lorenz-Material
+
+Lorenz mit kleinem Mops auf Arm
+
+Lorenz fotografiert Mops sitzt im Pokal
+
+Mopswelpe läuft auf roten Teppich / wird mit Leckerli gelockt
+
+O-Ton Caroline Lorenz, Hundezüchterin (Tochter und sie würden die ganze Welt umarmen; lacht; wäre das größte, was passieren könnte; denkt, es würde dann auch Wurf drei im Hause Lorenz geben)
+
+Mops frisst aus Napf
+
+Mops sitzt auf Decke</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H01M55S300N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>btg_a_moepse_110113.mov</title>
+        <videoInfo>moepse / möpse
+Es gibt sie in den unterschiedlichsten Größen, Formen und Farben. Aber wer hat die SCHÖNSTEN Möpse im Land? Das will auch Caroline Lorenz aus Steinfurt wissen. Sie ist besonders gesegnet. Die gelernte Fremdsprachen-Sekretärin hat nämlich gleich mehrere. Schuld daran ist allerdings keine Laune der Natur, sondern ganz besondere Gene. Mittlerweile hat sie mit ihren Prachtstücken sogar schon Preise abgeräumt. Was hinter dem tierischen Talent steckt? Pia Schrell zeigt´s Ihnen.</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-01-31</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/btg_a_moepse_110113.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

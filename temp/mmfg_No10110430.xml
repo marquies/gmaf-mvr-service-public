@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110430</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1341</name>
+                    <childNodes/>
+                    <textAnnotation>Archivbilder:
+Gasexplosion in Brühl; explodiertes Haus / zerstörte Haushälfte
+Einsatzkräfte an Unglücksstelle 
+
+Antextbild: Michael Kreuzberg hält Check in der Hand
+O- Ton Michael Kreuzberg, CDU, Bürgermeister Brühl (hab gebetet, dass das Haus nicht einstürzt, je mehr wir an die Rettung kamen und aufregender wurde es)
+
+Archivbild:
+Container mit Spielsachen, Decken, Büchern
+
+Riesencheck von Friedrich Binzenbach
+Plakat: „Benefizkonzert“
+
+O- Ton Rolf Lublinsky, Lions Club Brühl (ich selbst bin Vater von zwei Söhnen, die im selben Alter sind und kann mir vorstellen welches Leid in der Familie herrscht)
+
+O- Ton Friedrich Binzenbach, Karnevalsverein Fidele Bröhler Falkenjäger (man muss sich vorstellen, die haben auf einen Schlag ihre Eltern und ihre Schwester verloren, sehr traurige Geschichte)
+
+Karnevalsverein sitzt am Tisch, Check liegt auf Tisch
+O- Ton Michael Kreuzberg (wir werden die Spendengelder dazu verwenden, nicht nur für den alltäglichen Bedarf zu nutzen auch für die Zukunft anlegen)
+
+Michael Kreuzberg schaut Check an 
+
+O- Ton Michael Kreuzberg (körperlich geht es den Kindern recht gut aber psychisch sind sie noch stark traumatisiert 
+
+Spender halten Checks hoch</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H02M05S400N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>btg_a_bruehlspende_110114.mov</title>
+        <videoInfo>Bruehlspende / Brühlspende
+
+Die beiden Brüder Mark und Tobias aus Brühl haben alles verloren. Bei der Explosion im Dezember werden ihre Eltern getötet. Später können die Rettungskräfte auch ihre 10-jährige Schwester nur noch tot aus den Trümmern bergen. Wir hatten darüber berichtet. Das Schicksal der beiden Jungen hat die ganze Stadt tief berührt. Wie heute alle gemeinsam versucht haben den beiden Brüdern zu helfen, weiß Björn Reichert.</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-01-14</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/btg_a_bruehlspende_110114.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110647</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1381</name>
+                    <childNodes/>
+                    <textAnnotation>Archivbilder, verfremdet: Richterin (anonym) zieht Robe an
+
+Gerhard Papke und Karl-Josef Laumann setzen sich zur Pressekonferenz 
+Journalisten
+
+O-Ton Karl-Josef Laumann, CDU, Fraktionsvorsitzender NRW (das heißt, man kann nicht hemmungslos Schulden machen, selbst wenn man dafür eine Mehrheit hat; Neuwahlen, egal, wer dann Mehrheit hat, würden an dieser Tatsache nichts ändern; Gericht hat ganz klar gesagt: NRW muss wieder den Weg von Konsolidierung, von sparsamer Haushaltspolitik, von sorgsamen Umgang mit Geld einschlagen)
+
+O-Ton Gerhard Papke, FDP, Fraktionsvorsitzender NRW bei Pk (ist in der politischen Bewertung eine krachende Niederlage der Landesregierung; die bis auf die Knochen blamiert ist)
+
+Archivbilder:
+verfremdet: Richterin (anonym) liest Dokument
+Verfassung des Landes NRW
+Norbert Walter-Borjans, Sylvia Löhrmann und Hannelore Kraft nebeneinander auf Regierungsbank
+Walter-Borjans im Gespräch
+Löhrmann und Kraft bei Kabinettssitzung lachen
+
+O-Ton Norbert Walter-Borjans, SPD, Finanzminister NRW (ist davon überzeugt, dass sie für die Risiken, die auf sie zukommen, Vorsorge zu treffen haben, will es in rechtlich einwandfreien Sache und Weise machen; daran werden sie arbeiten; sieht Entscheidung in der Hauptsache entgegen, da werden die Dinge mit Pro und Contra abgewogen)
+
+Archivbilder:
+Richter im Gericht
+Verfassungsgerichtshof NRW außen</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H01M37S200N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>btg_a_haushaltsurteil_110118.mov</title>
+        <videoInfo>Haushaltsurteil
+Ja, es war ein harter Schlag für NRW-Ministerpräsidentin HAnnelore Kraft und ihre Mitstreiterin Sylvia Löhrmann. Das Verfassungsgericht in Münster hat heute den  Nachtragshaushalt der rot-grünen Minderheitsregierung vorerst gestoppt. Jetzt ist sogar von Neuwahlen die Rede. Damit hatte bisher wohl niemand so wirklich gerechnet, als CDU und FDP die einstweilige Anordnung beantragten. Was nach der Urteilsverkündung in Düsseldorf los ist und die ersten Reaktionen, zeigen Ihnen Brian Schneider und Maik Grimmeck. 17:30-aktuell.</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-01-18</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/btg_a_haushaltsurteil_110118.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

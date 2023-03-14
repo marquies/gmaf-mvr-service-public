@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110546</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1344</name>
+                    <childNodes/>
+                    <textAnnotation>Privatvideo: Hausbrand / Mehrfamilienhaus steht in Flammen / brennende Dachgeschoss-Wohnung / Wohnungsbrand – Heinz Duft-Material
+
+Trümmer und Asche auf Bürgersteig, Schwenk zu ausgebrannte Wohnung (von außen)
+
+Antextbild: Manuela Close zündet Kerze an
+Grablichter / Kerzen und Blumen auf Treppe
+Melanie Floryszczak und Close auf Straße vor Brandhaus
+O-Töne Manuela Close und Melanie Floryszczak, Nachbarn (als sie in dritter Etage ankam, hat sie nur noch den Familienvater gefunden, der verzweifelt nach seinen Söhnen gerufen hat; war kein reinkommen, ging nicht)
+
+Bestatter tragen Bahre mit abgedeckter Leiche aus Haus zu Leichenwagen – Wiebold-Material
+
+Antextbild: Senior Josef Supe steht auf Straße, schaut zu Brandhaus 
+O-Ton Josef Supe, Nachbar (traurig, Tragödie, ganze junge Familie nicht mehr da; egal welche Nationalität – wir sind alle Menschen)
+
+Polizeisiegel an Haustür, Schwenk zu Trauergaben
+
+O-Töne Manuela Close und Melanie Floryszczak (das Schlimme ist jetzt mit dem Gedanken einzuschlafen, bzw. die ganze Zeit immer dieses Bild vor Augen zu haben: die Frau, die ihr Kind hält und schreit)</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H02M19S16N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>btg_a2_wupperfeuer_110117.mov</title>
+        <videoInfo>Wupperfeuer
+Es ist kurz nach halb neun am morgen. Plötzlich steht die Wohnung in Flammen. Bei dem Brand in Wuppertal kommen zwei kleine Kinder und deren Mutter ums Leben. Ein Nachbar hat das Drama auf einem Video festgehalten. Der  Vater der Familie muss schwer verletzt ins Krankenhaus. Warum er innerhalb von Minuten alles verloren hat, was ihm lieb und teuer war, das wissen Leon Ahnesorg und Maria Lorf. Sie haben heute mit Nachbarn und Freunden der Familie gesprochen – für 17:30-aktuell.</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-01-17</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/btg_a2_wupperfeuer_110117.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

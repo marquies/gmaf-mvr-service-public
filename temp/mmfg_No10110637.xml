@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110637</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1395</name>
+                    <childNodes/>
+                    <textAnnotation>Archivbilder:
+John Malkovich auf Bühne und bei Pressekonferenz
+
+Teilnehmer bei Ruhrfestspiele-PK
+Heike Makatsch auf Bühne
+Ben Becker im Gespräch
+Edgar Selge im Publikum</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H00M40S400N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>nif5_a_ruhrfestspiele_110119.mov</title>
+        <videoInfo>Ruhrfestspiele</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-01-19</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/nif5_a_ruhrfestspiele_110119.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

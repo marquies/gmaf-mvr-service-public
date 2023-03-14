@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110670</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1673</name>
+                    <childNodes/>
+                    <textAnnotation>???Fotos: Tierheim Bocholt, Rechte unklar???
+
+???Rechte unklar???
+Foto Eimer voller Blut
+Foto abgeschnittene Tierfüße
+Foto tote schwarze Katzen
+???Rechte unklar???
+
+Antextbild: Kim Böggering läuft Feldweg entlang
+O-Ton Kim Böggering, Tierheim Bocholt (ekelt sich, ihr ist der Appetit vergangen; Wilderei-Geschichten hatten sie in letzter Zeit öfter, aber das war Brutalste, was sie bis jetzt gesehen hat)
+
+Foto: Böggering mit Tierkadaver ???Rechte unklar???
+
+Böggering hebt Fell aus Gebüsch auf
+Böggering gräbt im Laub
+O-Ton Kim Böggering (lagen komischerweise in geregelten / abgezählten Abstand nebeneinander, alle in eine Richtung und wiesen äußerlich keine Wunden auf)
+
+Antextbild: Kirsten Sehr obduziert totes Tier (unkenntlich)
+O-Ton Dr. Kirsten Sehr, Tierärztin (Vermutung von Ritualmorden war vorhanden; denkt aber eher, dass Jäger seine Hunde trainiert hat)
+
+ausgerissene Federn in Gebüsch
+
+Computermonitor: Foto Böggering
+
+O-Ton Peter Lefering, Polizei Borken (kann den Menschen die Sorge nicht nehmen, rät wachsam zu sein, wildernde Hunde unverzüglich bei der Polizei anzuzeigen) 
+
+O-Ton Kim Böggering, Tierheim Bocholt (versteht nicht, warum alles so säuberlich, vorne am Wegrand, wo es jeder sehen kann; man hätte Tiere auch mitnehmen und entsorgen können)</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+                <de.swa.mmfg.Node>
+                    <name>No26574</name>
+                    <childNodes/>
+                    <textAnnotation/>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S00N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+                <de.swa.mmfg.Node>
+                    <name>No26575</name>
+                    <childNodes/>
+                    <textAnnotation/>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S00N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H02M30S350N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>btg_a_katzenopfer_110119.mov</title>
+        <videoInfo>Katzenopfer
+Das Abendessen sollten Sie jetzt noch für einen Moment verschieben. Es geht um eine Frau aus Bocholt. Sie findet beim Spazierengehen an einem Feldweg zuerst einen Eimer mit Tierresten. Abgeschnittene Hühnerköpfe und Füße. Einige Meter weiter, liegen am Wegrand drei tote SCHWARZE Katzen. Was ist hier passiert? Björn Reichert hat für uns ermittelt.</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-02-02</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/btg_a_katzenopfer_110119.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

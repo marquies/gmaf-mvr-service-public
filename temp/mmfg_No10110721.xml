@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110721</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1429</name>
+                    <childNodes/>
+                    <textAnnotation>Foto von Papst Johannes Paul II. auf Rückbank von Limousine
+Vorbeifahrt Oldtimer-Limousine / Ford-Limousine / Lincoln Continental
+
+Autohändler Michael Fröhlich fährt Auto
+O-Ton Michael Fröhlich, Händler für „besondere“ Autos (ist stolz, dass er ihn gefunden hat, wollte er immer schon mal; hat nie so was gefunden; ist einmalig; hat Gänsehaut, wenn er drin sitzt; geht nicht davon aus, dass er in Deutschland bleibt; in Südamerika gibt es so ne riesige Gemeinde an katholischen Leuten)
+
+Details stehende Papst-Limousine außen und innen
+
+Aufsager Malin Körner auf Rückbank vom Papstauto (sitzt auf Platz des Papstes, hier hat er immer gesessen, muss sagen: ist ein tolles, großartiges Gefühl und ultra bequem: Sitze sind ganz, ganz breit – sie könnte sich noch stundenlang kutschieren lassen)
+
+Zulassungsurkunde
+
+Fröhlich fotografiert Papst-Auto
+
+O-Ton Michael Fröhlich (ist praktisch quadratisch groß und weiß und gut; man kann unschwer erkennen: richtige Luxus-Karre aus Amerika; war damals der teuerste Wagen, den man für Geld kaufen konnte, das Beste ist dem Papst gut genug)
+
+Limousine mit Papst-Plakat im Ausstellungsraum</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H02M01S216N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>btg_a_papstauto_110120.mov</title>
+        <videoInfo>Papstauto
+In diesem göttlichen Gefährt könnten vielleicht bald SIE sitzen. Die Luxusschlitten von Papst Johannes Paul II wird jetzt nämlich verkauft. Viele Jahre war das himmlische Exemplar im Privatbesitz. Der Düsseldorfer Autopapst Michael Fröhlich soll den weißen Wagen jetzt möglichst teuer verscherbeln. Malin Körner und Karoline Rösner haben sich das abgefahrene Auto heute genau angeschaut.</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-01-20</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/btg_a_papstauto_110120.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110598</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1514</name>
+                    <childNodes/>
+                    <textAnnotation>Bernd Metz-Material frei für 17:30 NRW
+
+Fotos: verdreckte / zugemüllte Wohnung - Bernd Metz-Material
+
+Müll in Wohnung
+38-jähriger Carsten Grosch öffnet dreckigen Kühlschrank
+Blick in ekligen Kühlschrank 
+O-Ton Carsten Grosch, Vermieter (fühlt sich hilflos, überfordert, weil er wieder alles wegschmeißen muss; wenn Sie in so eine Wohnung kommen, geben vorher frisch gestrichene Wohnungen ab, renovierte Wohnungen und kriegen dann so was wieder, ist deprimierend, dass man irgendwann resigniert)
+
+Grosch in verwahrloster Messi-Wohnung
+
+Antextbild: Bernd Metz arbeitet am Laptop / beschaut sich Fotos von Ekel-Wohnung
+O-Ton Bernd Metz, Vermieter (verwüstetes Badezimmer, hat viele Jahre ein Hund drin gelebt, zugekotet bis obenhin, trifft ihn; Müllberge in Wohnungen sind Normalgeschäft)
+
+Fotos: verschmutztes Bad / bedeckt mit Hundekot - Bernd Metz-Material
+
+Details: eklige Wohnung / Dreck im Bad, verteilter Müll
+
+O-Ton Thorsten Opel, Jobcenter Hagen (sind, im Rahmen des rechtlich Möglichen immer gewillt für eine schnelle Lösung; nur wenn es an die Daten der Kunden geht, die sind schutzwürdig, die dürfen sie nicht rausgeben; auch wenn Interesse des Vermieters Anklang findet)
+
+O-Ton Carsten Grosch (dass sich hier in diesem Land etwas ändert, in Bezug auf Mietnomaden, Messis, dass Gesetzgeber sagt: da müssen sie einschreiten, härtere Gesetze schaffen für den Eigentümer)</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H02M28S350N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>btg_a2_muellwohnung_110114.mov</title>
+        <videoInfo>Muellwohnung / Müllwohnung
+
+Sie sehen auf den ersten Blick ganz normal aus, doch sie hinterlassen Chaos und Verwüstung: Mietnomaden. In den letzten Jahren hört man immer häufiger davon, dass Menschen in völliger Verwahrlosung hausen, ihre Wohnung verschimmeln und verdrecken lassen - und dann den Vermieter mit einem Müllhaufen zurücklassen, den er auch noch selbst entsorgen muss. Wie es überhaupt so weit kommen kann und wie man sich wehren kann - Sarah Schröder und Stephan Schäuble haben mit einem Betroffen gesprochen - und wirklich krasse Bilder mitgebracht. (Auf jeden Fall Satz dazu sagen, dass jetzt was fieses kommt!)</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-01-25</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/btg_a2_muellwohnung_110114.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

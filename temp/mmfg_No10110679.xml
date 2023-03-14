@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110679</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1410</name>
+                    <childNodes/>
+                    <textAnnotation>Schüler / Hauptschüler (5. Klasse) im Mathe-Unterricht
+Lehrerin Katja Heitbaum hilft Schülerin
+Mädchen an Tafel rechnet 
+Junge an Tafel macht Rechenaufgabe
+Lehrerin steht vor Klasse
+Schüler zeigen auf / melden sich
+Schülerin zeigt auf / meldet sich
+
+Kinder toben im Klassenraum / laufen rum, schubsen sich und machen Lärm
+
+Heitbaum betritt mit Schulhund Cooper das Klassenzimmer
+Schul-Hund liegt im Klassenraum
+
+Schüler der Gemeinschaftshauptschule im Bio-Unterricht / untersuchen Hund
+
+Junge führt Hund mit Turnbeutel um Hals aus Klassenraum
+
+Hund frisst Leckerchen im Klassenraum</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H11M44S50N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>arc_1_schulhund_110119.mov</title>
+        <videoInfo>Schulhund
+Rohmaterial</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-01-19</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/arc_1_schulhund_110119.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110581</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1372</name>
+                    <childNodes/>
+                    <textAnnotation>grüne, gelbe und rote Paprika übereinander gestapelt
+Paprika rollen ins Bild
+
+Hände zeigen Paprika und Ei älteren Mann
+O-Töne Passanten (was sie noch essen)
+
+Hände halten gelbe und rote Paprika
+rote Paprika mit dunklen Flecken
+verschieden farbige Paprika in Verpackung
+Hand hält Paprika, im Hintergrund Supermark / Netto-Filiale
+
+O-Ton Frank Waskow, Verbraucherzentrale NRW (was gesundheitliche Wirkung angeht ist das individuell verschieden, aber dieser Stoff kann bei hohen Mengen Reizungen von Haut und Schleimhäuten auslösen)
+
+Foto: Tengelmann-Filiale
+Lidl-Logo
+Paprika, im Hintergrund Lidl-Filiale 
+
+O-Ton Ralf Bilke, Bund für Umwelt- und Naturschutz (kann nur raten: Finger weg von diesen Produkten; Leute kauft regional ein, kauft saisonal ein; man muss nicht an 365 Tagen im Jahr Paprika zum möglichst billigen Preis einkaufen)
+
+Antextbild: Peter Zodrow stellt Schüssel mit Essen zum Buffet
+Menschen im vegetarischen Restaurant Sattgrün in Düsseldorf
+Bio-Gerichte / Lebensmittel in Auslage
+O-Ton Peter Zodrow, Restaurant-Besitzer (Trend geht dahin, wird nie was für alle sein, aber für immer mehr Leute was sein, sich gesünder und bewusster zu ernähren; sind spannende Alternative, funktioniert)
+
+Archivbild:
+Spiegelei und Schinken auf Teller</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H02M00S16N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>btg_a_essenpfui_110118.mov</title>
+        <videoInfo>Essenpfui
+Erst sind Eier, Geflügel und Schweinefleisch mit Dioxin verseucht – und jetzt taucht auch noch giftiges Gemüse im Handel auf. All das sorgt bei vielen Verbrauchern für Verunsicherung. Mal ehrlich, man weiß doch gar nicht mehr, was man überhaupt noch essen kann. Damit der Lebensmittelskandal endlich ein Ende hat, haben sich heute die Landwirtschaftsminister von Bund und Ländern (zu einer Sonderkonferenz) in Berlin getroffen. Malin Körner und Karoline Rösner zeigen Ihnen, wo Sie noch mit guten Gewissen zubeißen können – und wo vielleicht doch lieber nicht.</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-01-18</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/btg_a_essenpfui_110118.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

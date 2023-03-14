@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110022</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1340</name>
+                    <childNodes/>
+                    <textAnnotation>47-jährige Bettina K. aus Castrop-Rauxel mit kaputter Nase, sitzt auf Stuhl, hält verletzten Fuß hoch
+Gesicht mit Verletzungen nah
+
+O-Ton Bettina K., Politesse (der Fuß schmerzt, was passiert noch habe ich gedacht und wann ist es vorbei)  
+
+Archivbild:
+verfremdet: Politesse kontrolliert Auto
+Verkehrsschild: „Behindertenparkplatz“ 
+
+nachgestellte Szene: Frau wird an den Haaren zu Boden gerissen
+Mann tritt vor Kamera 
+
+O- Ton Michael Franz, Polizei (es soll geholfen werden, aber man darf sich selber nicht in Gefahr bringen, das muss jeder vor Ort für sich wissen)
+
+Antextbild: Bettina K. steht vor Spiegel, schaut sich gebrochene Nase an
+O- Ton Bettina K., Gewaltopfer (momentan habe ich keine Angst, mal sehen wie es ist wenn ich auf der Straße ist, aber lasse mich nicht unterkriegen)</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H01M37S50N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>btg_a_politesse_110114.mov</title>
+        <videoInfo>Politesse
+
+Man will nur schnell etwas erledigen und schon ist es passiert. Nur Minuten später flattert ein Knöllchen an der Windschutzscheibe. Klar ist das ärgerlich. Und so manche Politesse ist es schon gewohnt von uneinsichtigen Autofahrern beschimpft und teilweise sogar angepöbelt zu werden. Für eine Politesse in Castrop-Rauxel hatte ein Strafzettel jetzt fatale Folgen. Sie wurde vom einem Mann niedergeschlagen. Was genau passiert ist, hat sie heute Anastasia Tscheprassow und Christian Fait erzählt.</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-01-14</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/2/btg_a_politesse_110114.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

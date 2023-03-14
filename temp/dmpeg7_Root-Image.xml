@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Mpeg7 xmlns="urn:mpeg:mpeg7:schema:2004" xmlns:mpeg7="urn:mpeg7:schema:2004" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Description xsi:type="ContentEntityType">
+        <DescriptionMetadata/>
+        <MultimediaContent xsi:type="VideoType">
+            <Video id="Root-Image">
+                <MediaLocator>
+                    <MediaUri>http://dev.step2e.de/3a8251b9-59b9-4ea4-898f-f80b5cac6ed3.jpg</MediaUri>
+                </MediaLocator>
+                <CreationInformation>
+                    <Creation>
+                        <Title type="main"/>
+                        <Abstract>
+                            <FreeTextAnnotation/>
+                        </Abstract>
+                        <Creator>
+                            <Role href="urn:mpeg:mpeg7:cs:RoleCS:2001:UNKNOWN"/>
+                            <Agent xsi:type="PersonType">
+                                <Name>
+                                    <GivenName/>
+                                </Name>
+                            </Agent>
+                        </Creator>
+                        <CreationCoordinates>
+                            <Location>
+                                <Name/>
+                            </Location>
+                            <Date>
+                                <TimePoint/>
+                            </Date>
+                        </CreationCoordinates>
+                    </Creation>
+                </CreationInformation>
+                <MediaTime>
+                    <MediaTimePoint/>
+                    <MediaDuration/>
+                </MediaTime>
+                <TemporalDecomposition>
+                    <VideoSegment id="AVA">
+                        <TextAnnotation>
+                            <FreeTextAnnotation/>
+                        </TextAnnotation>
+                        <MediaTime>
+                            <MediaTimePoint/>
+                            <MediaDuration/>
+                        </MediaTime>
+                    </VideoSegment>
+                    <VideoSegment id="AVA">
+                        <TextAnnotation>
+                            <FreeTextAnnotation/>
+                        </TextAnnotation>
+                        <MediaTime>
+                            <MediaTimePoint/>
+                            <MediaDuration/>
+                        </MediaTime>
+                    </VideoSegment>
+                    <VideoSegment id="Cloud">
+                        <TextAnnotation>
+                            <FreeTextAnnotation/>
+                        </TextAnnotation>
+                        <MediaTime>
+                            <MediaTimePoint/>
+                            <MediaDuration/>
+                        </MediaTime>
+                    </VideoSegment>
+                    <VideoSegment id="Water">
+                        <TextAnnotation>
+                            <FreeTextAnnotation/>
+                        </TextAnnotation>
+                        <MediaTime>
+                            <MediaTimePoint/>
+                            <MediaDuration/>
+                        </MediaTime>
+                    </VideoSegment>
+                    <VideoSegment id="Sky">
+                        <TextAnnotation>
+                            <FreeTextAnnotation/>
+                        </TextAnnotation>
+                        <MediaTime>
+                            <MediaTimePoint/>
+                            <MediaDuration/>
+                        </MediaTime>
+                    </VideoSegment>
+                    <VideoSegment id="Black-and-white">
+                        <TextAnnotation>
+                            <FreeTextAnnotation/>
+                        </TextAnnotation>
+                        <MediaTime>
+                            <MediaTimePoint/>
+                            <MediaDuration/>
+                        </MediaTime>
+                    </VideoSegment>
+                    <VideoSegment id="Dusk">
+                        <TextAnnotation>
+                            <FreeTextAnnotation/>
+                        </TextAnnotation>
+                        <MediaTime>
+                            <MediaTimePoint/>
+                            <MediaDuration/>
+                        </MediaTime>
+                    </VideoSegment>
+                    <VideoSegment id="Style">
+                        <TextAnnotation>
+                            <FreeTextAnnotation/>
+                        </TextAnnotation>
+                        <MediaTime>
+                            <MediaTimePoint/>
+                            <MediaDuration/>
+                        </MediaTime>
+                    </VideoSegment>
+                    <VideoSegment id="Tree">
+                        <TextAnnotation>
+                            <FreeTextAnnotation/>
+                        </TextAnnotation>
+                        <MediaTime>
+                            <MediaTimePoint/>
+                            <MediaDuration/>
+                        </MediaTime>
+                    </VideoSegment>
+                    <VideoSegment id="Lake">
+                        <TextAnnotation>
+                            <FreeTextAnnotation/>
+                        </TextAnnotation>
+                        <MediaTime>
+                            <MediaTimePoint/>
+                            <MediaDuration/>
+                        </MediaTime>
+                    </VideoSegment>
+                    <VideoSegment id="Tower block">
+                        <TextAnnotation>
+                            <FreeTextAnnotation/>
+                        </TextAnnotation>
+                        <MediaTime>
+                            <MediaTimePoint/>
+                            <MediaDuration/>
+                        </MediaTime>
+                    </VideoSegment>
+                    <VideoSegment id="Bridge">
+                        <TextAnnotation>
+                            <FreeTextAnnotation/>
+                        </TextAnnotation>
+                        <MediaTime>
+                            <MediaTimePoint/>
+                            <MediaDuration/>
+                        </MediaTime>
+                    </VideoSegment>
+                    <VideoSegment id="Haven Avenue">
+                        <TextAnnotation>
+                            <FreeTextAnnotation/>
+                        </TextAnnotation>
+                        <MediaTime>
+                            <MediaTimePoint/>
+                            <MediaDuration/>
+                        </MediaTime>
+                    </VideoSegment>
+                    <VideoSegment id="Fort Washington Park">
+                        <TextAnnotation>
+                            <FreeTextAnnotation/>
+                        </TextAnnotation>
+                        <MediaTime>
+                            <MediaTimePoint/>
+                            <MediaDuration/>
+                        </MediaTime>
+                    </VideoSegment>
+                    <VideoSegment id="Palisades Interstate Park">
+                        <TextAnnotation>
+                            <FreeTextAnnotation/>
+                        </TextAnnotation>
+                        <MediaTime>
+                            <MediaTimePoint/>
+                            <MediaDuration/>
+                        </MediaTime>
+                    </VideoSegment>
+                    <VideoSegment id="Bridge_1">
+                        <TextAnnotation>
+                            <FreeTextAnnotation/>
+                        </TextAnnotation>
+                        <MediaTime>
+                            <MediaTimePoint/>
+                            <MediaDuration/>
+                        </MediaTime>
+                    </VideoSegment>
+                </TemporalDecomposition>
+            </Video>
+        </MultimediaContent>
+    </Description>
+</Mpeg7>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110501</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1362</name>
+                    <childNodes/>
+                    <textAnnotation>Bruno Knust kommentiert Fußball Bundesliga-Wochenende</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H02M07S16N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>btg_a_brunosbude_110117.mov</title>
+        <videoInfo>Brunosbude
+Die Verschnaufpause in der Fußballbundesliga ist vorbei. Aber nicht nur die NRW-Vereine sind aus der Winterpause zurück – auch unser Kommentator Bruno Knust ist wieder da. Mit dem Anpfiff am 18. Spieltag ging die Jagd auf den Tabellenführer Borussia Dortmund in die nächste Runde. Trotzdem: Die Jungs stehen nach dem Wochenende weiterhin an der Tabellenspitze. Ja, nicht ganz so rund lief´s bei den Kölnern. Mehr gibt’s aber jetzt an „Brunos Bude“.</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-01-17</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/btg_a_brunosbude_110117.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110714</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1411</name>
+                    <childNodes/>
+                    <textAnnotation>Wiebold-Material
+Nacht:
+Großbrand / Schrottplatzbrand 
+brennende Autos auf Schrottplatz / Autos stehen in Flammen, Qualm steigt auf
+Feuerwehrleute bei Löscharbeiten
+Wiebold-Material
+
+Antextbild: 47-jähriger Robert Fiedler auf Bürgersteig gegenüber Brandort
+O-Ton Robert Fiedler, Anwohner (hatten schon Brand beim Autohändler; macht sich Sorgen um eigenes Auto, um Nachbarn; man guckt mehr)
+
+Feuerwehrmänner löschen Glutnester am Tag
+
+Archivbild:
+Autobrand in Mülheim
+
+O-Ton Mike Filzen, Feuerwehr Essen (gibt verschiedene Hinweise, ob es sich überhaupt um Brandstiftung handelt, technischer Defekt; gestapelte Fahrzeuge haben z. T. noch Autobatterien gehabt, da kann durchaus mal was passieren)
+
+mit Schaum bedeckte Einsatzkräfte / Feuerwehrleute bedeckt mit Löschschaum 
+
+O-Töne Passanten (denkt, dass da einer ist, der Spaß dran hat, wenn ordentlich Feuer brennt; vor allem mit zwei Kindern, wenn da nachts mal was passiert, haben ne Tiefgarage, da wo sie wohnen, ist nicht so toll)
+
+Feuerwehr-Fahrzeuge auf Straße, Schwenk auf Fiedler
+O-Ton Robert Fiedler, hat Angst (dass man keine Angst mehr haben muss, dass was passiert irgendwo; wenn man Autos ansteckt, vielleicht auch Wohnungen, wer weiß; muss aufhören, der muss geschnappt werden)
+
+Polizisten am Brandort</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H02M27S83N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>btg_a_schrottbrand_110120.mov</title>
+        <videoInfo>Schrottbrand
+Heute morgen um 6 Uhr brannte es Lichterloh auf dem Schrottplatz in Essen-Altenessen. Rund 100 Schrottfahrzeuge standen in Flammen. Die Feuerwehr hatte den ganzen Tag über große Probleme den Brandherd zu löschen. Und dieses Szenario findet im Ruhrgebiet nicht das erste mal statt. Ende Dezember 201o brannten in Mülheim schon einmal vier hochklassige Wagen die gelöscht werden mussten. Damals gab es eine Beschreibung möglicher Täter, die dabei beobachtet worden sein sollen, als sie flüchteten. Waren hier in Essen also wieder Brandstifter am Werk? Meine Kollegen Leon Ahnesorg und Julia Kleine sind dem Verdacht mal nachgegangen.</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-01-20</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/btg_a_schrottbrand_110120.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>

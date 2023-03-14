@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<de.swa.mmfg.MMFG>
+    <nodes>
+        <de.swa.mmfg.Node>
+            <name>No10110719</name>
+            <childNodes>
+                <de.swa.mmfg.Node>
+                    <name>No1638</name>
+                    <childNodes/>
+                    <textAnnotation>58-jährige Christine Dosche und ihr geistig behinderter Sohn / 25-jähriger Sebastian / junger Mann mit Down-Syndrom spielen Gesellschaftsspiel / Mensch-ärgere-dich-nicht
+
+O-Ton Christine Dosche, ihr Kind leidet am Down-Syndrom (würde bedeuten, dass viele Dinge, die ihrem Sohn das Leben schön machen, für sie sehr viel schwerer zu leisten wären; sind einfach Ausgaben da, bei nem behinderten Angehörigen, die man für nicht-behinderte nicht hat; wenn er ins Kino geht, ist es nicht nur seine Karte, sondern kostet noch ne Karte für den Begleiter)
+
+Ordner: Sozialamt, Schwenk zu Dosche am Tisch mit Taschenrechner
+Mutter und Sohn am Tisch beschauen sich Unterlagen
+Dosche schüttelt Kopf
+
+Antextbild: Dirk Hinne arbeitet am Schreibtisch
+O-Ton Dirk Hinne, Anwalt für Sozialrecht (in der Tat, der Verwaltungsaufwand dafür ist erheblich; ist so, dass es sich um eine Kann-Vorschrift handelt, heißt die Gemeinde muss es nicht tun, sondern es steht in ihrem Ermessen das zu tun, muss Ermessen richtig ausüben)
+
+Antextbild: Michael Willamowski liest Buch
+O-Ton Michael Willamowski, Leiter Sozialamt Münster (geht um eine ganze Menge Geld für die Familien, aber auch für die Stadt Münster; das erfordert eine sorgfältige Aufarbeitung, dazu ist es erforderlich Belege vorzulegen; ist so, gehört zu geordneten Verwaltung)
+
+Familie Dosche musiziert / Vater spielt Klavier, geistig behinderter Junge spielt Gitarre
+
+O-Ton Christine Dosche, leidet unter Behördenwahnsinn (nicht das behinderte Kind macht einem das Leben schwer, sondern die Stellen, die eigentlich die Aufgaben haben, ihnen dabei zu helfen, mit der Situation zurecht zu kommen)</textAnnotation>
+                    <technicalAttributes>
+                        <de.swa.mmfg.TechnicalAttribute>
+                            <MediaTimePoint>T00:00:00:0</MediaTimePoint>
+                            <MediaDuration>PT00H00M00S0N1000F</MediaDuration>
+                        </de.swa.mmfg.TechnicalAttribute>
+                    </technicalAttributes>
+                </de.swa.mmfg.Node>
+            </childNodes>
+            <technicalAttributes>
+                <de.swa.mmfg.TechnicalAttribute>
+                    <MediaTimePoint>T00:00:00</MediaTimePoint>
+                    <MediaDuration>PT00H02M31S133N1000F</MediaDuration>
+                </de.swa.mmfg.TechnicalAttribute>
+            </technicalAttributes>
+        </de.swa.mmfg.Node>
+    </nodes>
+    <generalMetadata>
+        <title>btg_a_kindergeld_110120.mov</title>
+        <videoInfo>Kindergeld
+Die Kommunen müssen sparen, wo es nur geht. Die Stadt Münster spart nun sogar beim Einfühlungsvermögen und ausgerechnet bei Behinderten. Sie will nämlich von den Eltern behinderter Kinder, dass sie etwas von ihrem Budget abknapsen. In Münster sollen die Angehörigen zukünftig mit Quittungen und Belegen genau nachweisen, dass jeder Cent des Kindergeldes für das Kind ausgegeben wurde. Sonst beansprucht das Sozialamt das Geld zurück. Was das für eine betroffene Familie bedeutet, haben sich Anastasia Tscheprassow und Nadine Ramírez angeschaut.</videoInfo>
+        <creator>admin</creator>
+        <creationTime>2011-02-01</creationTime>
+        <creationPlace/>
+    </generalMetadata>
+    <locations>
+        <de.swa.mmfg.Location>
+            <type>1</type>
+            <location>/Volumes/XSAN/Step2e/ARCHIVE/2011/3/btg_a_kindergeld_110120.mov</location>
+        </de.swa.mmfg.Location>
+    </locations>
+    <currentNode/>
+    <allNodes/>
+    <collectionElements/>
+</de.swa.mmfg.MMFG>
