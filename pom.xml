@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>de.swa</groupId>
-	<artifactId>gmaf-service</artifactId>
+	<artifactId>gmaf-service-mvr</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>GMAF Service</name>
+	<name>GMAF MVR Service</name>
 	<description></description>
 
 	<properties>
@@ -44,7 +44,7 @@
 		</dependency>
 		<dependency>
 			<groupId>de.swa</groupId>
-			<artifactId>gmaf</artifactId>
+			<artifactId>gmaf-mvr</artifactId>
 			<version>1.0.2</version>
 		</dependency>
 
@@ -81,7 +81,7 @@
 
 		<dependency>
 			<groupId>de.swa</groupId>
-			<artifactId>gmaf-api</artifactId>
+			<artifactId>gmaf-api-mvr</artifactId>
 			<version>1.0.1</version>
 		</dependency>
 

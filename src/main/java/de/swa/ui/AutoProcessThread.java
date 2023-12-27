@@ -19,7 +19,7 @@ public class AutoProcessThread extends Thread {
 			try {
 				System.out.println("auto processing started");
 				
-				for (MMFG m : MMFGCollection.getInstance().getCollection()) {
+				for (MMFG m : MMFGCollectionFactory.createOrGetCollection().getCollection()) {
 					String fileName = m.getGeneralMetadata().getFileName();
 					File existingMMFG = new File(Configuration.getInstance().getMMFGRepo() + File.separatorChar + fileName + ".mmfg");
 					if (!existingMMFG.exists()) {
@@ -43,8 +43,8 @@ public class AutoProcessThread extends Thread {
 							GraphCodeIO.write(gc, new File(Configuration.getInstance().getGraphCodeRepository() + File.separatorChar + f.getName() + ".gc"));
 							
 							System.out.println("GraphCode exported to " + Configuration.getInstance().getGraphCodeRepository());
-							MMFGCollection.getInstance().addToCollection(fv);
-							MMFGCollection.getInstance().refresh();
+							MMFGCollectionFactory.createOrGetCollection().addToCollection(fv);
+							MMFGCollectionFactory.createOrGetCollection().refresh();
 						}
 						catch (Exception x) {
 							x.printStackTrace();
