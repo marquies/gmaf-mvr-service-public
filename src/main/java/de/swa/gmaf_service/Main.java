@@ -28,6 +28,7 @@ public class Main {
             System.out.println("Hello Fabric8! Here's your random string: " + randomAlphanumeric(5));
             SECONDS.sleep(1);
         }
+
     }
 
 }
