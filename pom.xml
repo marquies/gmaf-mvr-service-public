@@ -59,7 +59,7 @@
 		<dependency>
 			<groupId>de.swa</groupId>
 			<artifactId>gmaf-mvr</artifactId>
-			<version>1.0.3</version>
+			<version>1.0.4-SNAPSHOT</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/javax.activation/javax.activation-api -->
