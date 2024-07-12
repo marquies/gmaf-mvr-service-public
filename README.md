@@ -6,6 +6,8 @@ GMAF Service provides a web service with REST and SOAP APIs.
 
 ## Build
 
+Setup Maven settings.xml to access remote repository
+
 ```shell
 mvn clean package
 ```
