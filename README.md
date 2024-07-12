@@ -1,3 +1,4 @@
+[![Maven Package](https://github.com/marquies/gmaf-mvr-service/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/marquies/gmaf-mvr-service/actions/workflows/maven-publish.yml)
 # GMAF Service
 
 GMAF Service provides a web service with REST and SOAP APIs.
