@@ -81,17 +81,18 @@
 <!--			<version>2.0.1</version>-->
 <!--		</dependency>-->
 
-		<dependency>
+		<!--<dependency>
 			<groupId>de.swa</groupId>
 			<artifactId>gmaf-core-plugins</artifactId>
 			<version>1.0.0</version>
-		</dependency>
 
-		<dependency>
+		</dependency>-->
+
+		<!--<dependency>
 			<groupId>de.swa</groupId>
 			<artifactId>gmaf-ext-plugins</artifactId>
 			<version>1.0.0</version>
-		</dependency>
+		</dependency>-->
 
 		<dependency>
 			<groupId>de.swa</groupId>
