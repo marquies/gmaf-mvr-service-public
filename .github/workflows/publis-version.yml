@@ -1,0 +1,30 @@
+name: Update Version
+on:
+  workflow_dispatch:
+    inputs:
+      releaseversion:
+        description: 'Release version'
+        required: true
+        default: '2.4.0'
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out Git repository
+        uses: actions/checkout@v4
+      - name: Install Java and Maven
+        uses: actions/setup-java@v3
+        with:
+        java-version: '17'
+        distribution: 'temurin'
+        server-id: github # Value of the distributionManagement/repository/id field of the pom.xml
+        settings-path: ${{ github.workspace }} # location for the settings.xml file
+      - if: github.event.release
+        name: Update version in pom.xml (Release only)
+        run: mvn -B versions:set -DnewVersion=${{ github.event.inputs.releaseversion }} -DgenerateBackupPoms=false
+      - name: Publish to GitHub Packages Apache Maven
+        run: mvn -B --no-transfer-progress deploy -DskipTests -s $GITHUB_WORKSPACE/.github/workflows/maven-settings.xml -P github
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          USER_NAME: ${{ secrets.USER_NAME }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
