@@ -19,7 +19,7 @@ jobs:
           distribution: 'temurin'
           server-id: github # Value of the distributionManagement/repository/id field of the pom.xml
           settings-path: ${{ github.workspace }} # location for the settings.xml file
-      - if: github.event.release
+      - if: github.event.inputs.releaseversion
         name: Update version in pom.xml (Release only)
         run: mvn -B versions:set -DnewVersion=${{ github.event.inputs.releaseversion }} -DgenerateBackupPoms=false
       - name: Publish to GitHub Packages Apache Maven
