@@ -5,16 +5,17 @@
 
 	<groupId>de.swa</groupId>
 	<artifactId>gmaf-service-mvr</artifactId>
-	<version>1.0.4</version>
+	<version>1.0.5-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>GMAF MVR Service</name>
-	<description></description>
+	<description>GMAF MVR Service Implementation</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>14</maven.compiler.source>
 		<maven.compiler.target>14</maven.compiler.target>
+		<junit.version>5.8.2</junit.version>
 	</properties>
 
 	<repositories>
@@ -23,6 +24,7 @@
 			<url>https://maven.pkg.github.com/marquies/gmaf-mvr</url>
 		</repository>
 	</repositories>
+	
 	<distributionManagement>
 		<repository>
 			<id>github</id>
@@ -56,53 +58,52 @@
 			<artifactId>jackson-core</artifactId>
 			<version>2.14.2</version>
 		</dependency>
+		
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
 			<version>2.14.2</version>
 		</dependency>
+		
 		<dependency>
 			<groupId>de.swa</groupId>
 			<artifactId>gmaf-mvr</artifactId>
-			<version>1.0.4</version>
+			<version>1.0.5-SNAPSHOT</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/javax.activation/javax.activation-api -->
-<!--		<dependency>-->
-<!--			<groupId>javax.activation</groupId>-->
-<!--			<artifactId>javax.activation-api</artifactId>-->
-<!--			<version>1.2.0</version>-->
-<!--		</dependency>-->
-
-<!--		<dependency>-->
-<!--			<groupId>com.sun.xml.ws</groupId>-->
-<!--			<artifactId>jaxws-rt</artifactId>-->
-<!--			<version>2.3.2</version>-->
-<!--		</dependency>-->
-
-<!--		<dependency>-->
-<!--			<groupId>javax.ws.rs</groupId>-->
-<!--			<artifactId>javax.ws.rs-api</artifactId>-->
-<!--			<version>2.0.1</version>-->
-<!--		</dependency>-->
-
-		<!--<dependency>
-			<groupId>de.swa</groupId>
-			<artifactId>gmaf-core-plugins</artifactId>
-			<version>1.0.0</version>
-
-		</dependency>-->
-
-		<!--<dependency>
-			<groupId>de.swa</groupId>
-			<artifactId>gmaf-ext-plugins</artifactId>
-			<version>1.0.0</version>
-		</dependency>-->
-
+		<!-- Test Dependencies -->
+		<dependency>
+			<groupId>org.junit.jupiter</groupId>
+			<artifactId>junit-jupiter-api</artifactId>
+			<version>${junit.version}</version>
+			<scope>test</scope>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.junit.jupiter</groupId>
+			<artifactId>junit-jupiter-engine</artifactId>
+			<version>${junit.version}</version>
+			<scope>test</scope>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.mockito</groupId>
+			<artifactId>mockito-core</artifactId>
+			<version>4.5.1</version>
+			<scope>test</scope>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.mockito</groupId>
+			<artifactId>mockito-junit-jupiter</artifactId>
+			<version>4.5.1</version>
+			<scope>test</scope>
+		</dependency>
+		
 		<dependency>
 			<groupId>de.swa</groupId>
 			<artifactId>gmaf-api-mvr</artifactId>
-			<version>1.0.2</version>
+			<version>1.0.3-SNAPSHOT</version>
 		</dependency>
 
 		<dependency>
@@ -120,16 +121,11 @@
 			<artifactId>swagger-ui</artifactId>
 			<version>3.6.1</version>
 		</dependency>
-
-
 	</dependencies>
-
-
 
 	<build>
 		<finalName>GMAF-Service</finalName>
 		<plugins>
-
 			<!-- download source code in Eclipse, best practice -->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
@@ -144,12 +140,11 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.2</version> <!-- or whatever current version -->
+				<version>3.8.1</version>
 				<configuration>
-					<source>10</source>
-					<target>10</target>
+					<source>${maven.compiler.source}</source>
+					<target>${maven.compiler.target}</target>
 				</configuration>
-
 				<dependencies>
 					<dependency>
 						<groupId>org.glassfish.jaxb</groupId>
@@ -180,7 +175,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-surefire-plugin</artifactId>
-				<version>2.22.1</version>
+				<version>2.22.2</version>
 			</plugin>
 
 			<plugin>
