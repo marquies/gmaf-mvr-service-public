@@ -18,6 +18,8 @@
 		<junit.version>5.8.2</junit.version>
 		<jaxb-runtime.version>2.3.2</jaxb-runtime.version>
 		<jaxws.version>2.3.3</jaxws.version>
+		<jersey.version>2.35</jersey.version>
+		<slf4j.version>1.7.36</slf4j.version>
 	</properties>
 
 	<repositories>
@@ -40,25 +42,37 @@
 		<dependency>
 			<groupId>org.glassfish.jersey.containers</groupId>
 			<artifactId>jersey-container-jdk-http</artifactId>
-			<version>2.38</version>
+			<version>${jersey.version}</version>
 		</dependency>
 
 		<dependency>
 			<groupId>org.glassfish.jersey.inject</groupId>
 			<artifactId>jersey-hk2</artifactId>
-			<version>2.38</version>
+			<version>${jersey.version}</version>
 		</dependency>
 
 		<dependency>
 			<groupId>org.glassfish.jersey.media</groupId>
 			<artifactId>jersey-media-json-jackson</artifactId>
-			<version>2.38</version>
+			<version>${jersey.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.glassfish.jersey.core</groupId>
+			<artifactId>jersey-server</artifactId>
+			<version>${jersey.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.glassfish.jersey.core</groupId>
+			<artifactId>jersey-common</artifactId>
+			<version>${jersey.version}</version>
 		</dependency>
 
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-core</artifactId>
-			<version>2.14.2</version>
+			<version>2.17.3</version>
 		</dependency>
 		
 		<dependency>
@@ -71,6 +85,48 @@
 			<groupId>de.swa</groupId>
 			<artifactId>gmaf-mvr</artifactId>
 			<version>1.0.5-SNAPSHOT</version>
+		</dependency>
+
+		<dependency>
+			<groupId>io.swagger.core.v3</groupId>
+			<artifactId>swagger-jaxrs2</artifactId>
+			<version>2.1.13</version>
+		</dependency>
+
+		<dependency>
+			<groupId>io.swagger.core.v3</groupId>
+			<artifactId>swagger-jaxrs2-servlet-initializer-v2</artifactId>
+			<version>2.1.13</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.webjars</groupId>
+			<artifactId>swagger-ui</artifactId>
+			<version>3.6.1</version>
+		</dependency>
+
+		<!-- JAX-WS dependencies -->
+		<dependency>
+			<groupId>com.sun.xml.ws</groupId>
+			<artifactId>jaxws-rt</artifactId>
+			<version>${jaxws.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.sun.xml.ws</groupId>
+			<artifactId>jaxws-tools</artifactId>
+			<version>${jaxws.version}</version>
+		</dependency>
+
+		<!-- Logging -->
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>${slf4j.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-simple</artifactId>
+			<version>${slf4j.version}</version>
 		</dependency>
 
 		<!-- Test Dependencies -->
@@ -108,31 +164,6 @@
 			<version>1.0.3-SNAPSHOT</version>
 		</dependency>
 
-		<dependency>
-			<groupId>io.swagger.core.v3</groupId>
-			<artifactId>swagger-jaxrs2</artifactId>
-			<version>2.2.22</version>
-		</dependency>
-		<dependency>
-			<groupId>io.swagger.core.v3</groupId>
-			<artifactId>swagger-jaxrs2-servlet-initializer</artifactId>
-			<version>2.2.22</version>
-		</dependency>
-		<dependency>
-			<groupId>org.webjars</groupId>
-			<artifactId>swagger-ui</artifactId>
-			<version>3.6.1</version>
-		</dependency>
-		<dependency>
-			<groupId>com.sun.xml.ws</groupId>
-			<artifactId>jaxws-rt</artifactId>
-			<version>${jaxws.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>com.sun.xml.ws</groupId>
-			<artifactId>jaxws-tools</artifactId>
-			<version>${jaxws.version}</version>
-		</dependency>
 	</dependencies>
 
 	<build>
@@ -174,7 +205,7 @@
 					<dependency>
 						<groupId>org.glassfish.jaxb</groupId>
 						<artifactId>jaxb-runtime</artifactId>
-						<version>2.3.2</version>
+						<version>4.0.0</version>
 					</dependency>
 					<dependency>
 						<groupId>com.sun.xml.bind</groupId>
@@ -188,7 +219,20 @@
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>3.0.0-M5</version>
-
+				<configuration>
+					<argLine>
+						--add-opens java.base/java.lang=ALL-UNNAMED
+						--add-opens java.base/java.util=ALL-UNNAMED
+						--add-opens java.base/java.lang.reflect=ALL-UNNAMED
+						--add-opens java.base/sun.security.action=ALL-UNNAMED
+						--add-opens java.base/jdk.internal.misc=ALL-UNNAMED
+						--add-opens java.base/java.net=ALL-UNNAMED
+						--add-opens java.base/java.nio=ALL-UNNAMED
+						--add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+					</argLine>
+					<forkCount>1</forkCount>
+					<reuseForks>false</reuseForks>
+				</configuration>
 			</plugin>
 
 			<plugin>
@@ -214,8 +258,12 @@
 					<!-- MainClass in mainfest make a executable jar -->
 					<archive>
 						<manifest>
+							<addClasspath>true</addClasspath>
 							<mainClass>de.swa.gmaf.Service</mainClass>
 						</manifest>
+						<manifestEntries>
+							<Add-Opens>java.base/java.lang java.base/java.util java.base/java.lang.reflect java.base/sun.security.action java.base/jdk.internal.misc java.base/java.net java.base/java.nio java.base/java.lang.invoke</Add-Opens>
+						</manifestEntries>
 					</archive>
 
 				</configuration>
@@ -255,6 +303,51 @@
 						<version>2.3.2</version>
 					</dependency>
 				</dependencies>
+			</plugin>
+
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>exec-maven-plugin</artifactId>
+				<version>3.1.0</version>
+				<configuration>
+					<mainClass>de.swa.gmaf.Service</mainClass>
+					<jvmArgs>
+						<jvmArg>--add-opens</jvmArg>
+						<jvmArg>java.base/java.lang=ALL-UNNAMED</jvmArg>
+						<jvmArg>--add-opens</jvmArg>
+						<jvmArg>java.base/java.util=ALL-UNNAMED</jvmArg>
+						<jvmArg>--add-opens</jvmArg>
+						<jvmArg>java.base/java.lang.reflect=ALL-UNNAMED</jvmArg>
+						<jvmArg>--add-opens</jvmArg>
+						<jvmArg>java.base/sun.security.action=ALL-UNNAMED</jvmArg>
+						<jvmArg>--add-opens</jvmArg>
+						<jvmArg>java.base/jdk.internal.misc=ALL-UNNAMED</jvmArg>
+						<jvmArg>--add-opens</jvmArg>
+						<jvmArg>java.base/java.net=ALL-UNNAMED</jvmArg>
+						<jvmArg>--add-opens</jvmArg>
+						<jvmArg>java.base/java.nio=ALL-UNNAMED</jvmArg>
+						<jvmArg>--add-opens</jvmArg>
+						<jvmArg>java.base/java.lang.invoke=ALL-UNNAMED</jvmArg>
+					</jvmArgs>
+				</configuration>
+			</plugin>
+
+			<!-- Add manifest to enable running as executable jar -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-jar-plugin</artifactId>
+				<version>3.2.0</version>
+				<configuration>
+					<archive>
+						<manifest>
+							<addClasspath>true</addClasspath>
+							<mainClass>de.swa.gmaf.Service</mainClass>
+						</manifest>
+						<manifestEntries>
+							<Add-Opens>java.base/java.lang java.base/java.util java.base/java.lang.reflect java.base/sun.security.action java.base/jdk.internal.misc java.base/java.net java.base/java.nio java.base/java.lang.invoke</Add-Opens>
+						</manifestEntries>
+					</archive>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>
