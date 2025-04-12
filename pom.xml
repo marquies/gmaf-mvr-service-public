@@ -16,6 +16,7 @@
 		<maven.compiler.source>14</maven.compiler.source>
 		<maven.compiler.target>14</maven.compiler.target>
 		<junit.version>5.8.2</junit.version>
+		<jaxb-runtime.version>2.3.2</jaxb-runtime.version>
 	</properties>
 
 	<repositories>
@@ -149,7 +150,7 @@
 					<dependency>
 						<groupId>org.glassfish.jaxb</groupId>
 						<artifactId>jaxb-runtime</artifactId>
-						<version>2.3.1</version>
+						<version>${jaxb-runtime.version}</version>
 					</dependency>
 					<!-- API, java.xml.bind module -->
 					<dependency>
@@ -222,11 +223,7 @@
 				<artifactId>maven-jaxb2-plugin</artifactId>
 				<version>0.15.2</version>
 				<dependencies>
-					<dependency>
-						<groupId>org.glassfish.jaxb</groupId>
-						<artifactId>jaxb-runtime</artifactId>
-						<version>2.3.2</version>
-					</dependency>
+
 					<!-- API, java.xml.bind module -->
 					<dependency>
 						<groupId>jakarta.xml.bind</groupId>
@@ -238,7 +235,7 @@
 					<dependency>
 						<groupId>org.glassfish.jaxb</groupId>
 						<artifactId>jaxb-runtime</artifactId>
-						<version>2.3.2</version>
+						<version>${jaxb-runtime.version}</version>
 					</dependency>
 					<dependency>
 						<groupId>com.sun.xml.bind</groupId>
