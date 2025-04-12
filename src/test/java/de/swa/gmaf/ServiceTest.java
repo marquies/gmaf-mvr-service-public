@@ -56,7 +56,7 @@ class ServiceTest {
             service.stop();
         }
         closeable.close();
-        Configuration.reset();
+        //Configuration.reset();
         
         // Wait for ports to be released
         TimeUnit.MILLISECONDS.sleep(100);
