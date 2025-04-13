@@ -118,6 +118,13 @@
 			<version>3.6.1</version>
 		</dependency>
 
+		<!-- CORS -->
+		<dependency>
+			<groupId>com.sun.jersey</groupId>
+			<artifactId>jersey-grizzly</artifactId>
+			<version>1.19.4</version>
+		</dependency>
+
 		<!-- JAX-WS dependencies -->
 		<dependency>
 			<groupId>com.sun.xml.ws</groupId>
