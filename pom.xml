@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
 
@@ -18,7 +19,7 @@
 		<junit.version>5.8.2</junit.version>
 		<jaxb-runtime.version>2.3.2</jaxb-runtime.version>
 		<jaxws.version>2.3.7</jaxws.version>
-		<jersey.version>2.35</jersey.version>
+		<jersey.version>2.38</jersey.version>
 		<slf4j.version>1.7.36</slf4j.version>
 	</properties>
 
@@ -28,7 +29,7 @@
 			<url>https://maven.pkg.github.com/marquies/gmaf-mvr</url>
 		</repository>
 	</repositories>
-	
+
 	<distributionManagement>
 		<repository>
 			<id>github</id>
@@ -39,23 +40,23 @@
 
 	<dependencies>
 		<!-- REST API Dependencies-->
-		<dependency>
-			<groupId>org.glassfish.jersey.containers</groupId>
-			<artifactId>jersey-container-jdk-http</artifactId>
-			<version>${jersey.version}</version>
-		</dependency>
+		<!--		<dependency>-->
+		<!--			<groupId>org.glassfish.jersey.containers</groupId>-->
+		<!--			<artifactId>jersey-container-jdk-http</artifactId>-->
+		<!--			<version>${jersey.version}</version>-->
+		<!--		</dependency>-->
 
-		<dependency>
-			<groupId>org.glassfish.jersey.inject</groupId>
-			<artifactId>jersey-hk2</artifactId>
-			<version>${jersey.version}</version>
-		</dependency>
+		<!--		<dependency>-->
+		<!--			<groupId>org.glassfish.jersey.inject</groupId>-->
+		<!--			<artifactId>jersey-hk2</artifactId>-->
+		<!--			<version>${jersey.version}</version>-->
+		<!--		</dependency>-->
 
-		<dependency>
-			<groupId>org.glassfish.jersey.media</groupId>
-			<artifactId>jersey-media-json-jackson</artifactId>
-			<version>${jersey.version}</version>
-		</dependency>
+		<!--		<dependency>-->
+		<!--			<groupId>org.glassfish.jersey.media</groupId>-->
+		<!--			<artifactId>jersey-media-json-jackson</artifactId>-->
+		<!--			<version>${jersey.version}</version>-->
+		<!--		</dependency>-->
 
 		<dependency>
 			<groupId>org.glassfish.jersey.core</groupId>
@@ -64,28 +65,40 @@
 		</dependency>
 
 		<dependency>
+			<groupId>org.glassfish.jersey.inject</groupId>
+			<artifactId>jersey-hk2</artifactId>
+			<version>${jersey.version}</version>
+		</dependency>
+		<dependency>
 			<groupId>org.glassfish.jersey.core</groupId>
 			<artifactId>jersey-common</artifactId>
 			<version>${jersey.version}</version>
 		</dependency>
 
+		<!-- Jersey JDK Webserver -->
 		<dependency>
-			<groupId>com.fasterxml.jackson.core</groupId>
-			<artifactId>jackson-core</artifactId>
-			<version>2.17.3</version>
+			<groupId>org.glassfish.jersey.containers</groupId>
+			<artifactId>jersey-container-jdk-http</artifactId>
+			<version>${jersey.version}</version>
 		</dependency>
-		
+
+		<!--		<dependency>-->
+		<!--			<groupId>com.fasterxml.jackson.core</groupId>-->
+		<!--			<artifactId>jackson-core</artifactId>-->
+		<!--			<version>2.17.3</version>-->
+		<!--		</dependency>-->
+
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
 			<version>2.14.2</version>
 		</dependency>
-		
-		<dependency>
-			<groupId>de.swa</groupId>
-			<artifactId>gmaf-mvr</artifactId>
-			<version>1.0.5-SNAPSHOT</version>
-		</dependency>
+
+		<!--		<dependency>-->
+		<!--			<groupId>de.swa</groupId>-->
+		<!--			<artifactId>gmaf-mvr</artifactId>-->
+		<!--			<version>1.0.5-SNAPSHOT</version>-->
+		<!--		</dependency>-->
 
 		<dependency>
 			<groupId>io.swagger.core.v3</groupId>
@@ -136,28 +149,29 @@
 			<version>${junit.version}</version>
 			<scope>test</scope>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
 			<artifactId>junit-jupiter-engine</artifactId>
 			<version>${junit.version}</version>
 			<scope>test</scope>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>org.mockito</groupId>
 			<artifactId>mockito-core</artifactId>
 			<version>4.5.1</version>
 			<scope>test</scope>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>org.mockito</groupId>
 			<artifactId>mockito-junit-jupiter</artifactId>
 			<version>4.5.1</version>
 			<scope>test</scope>
 		</dependency>
-		
+
+		<!-- GMAF Dependencies -->
 		<dependency>
 			<groupId>de.swa</groupId>
 			<artifactId>gmaf-api-mvr</artifactId>
@@ -220,16 +234,6 @@
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>3.0.0-M5</version>
 				<configuration>
-					<argLine>
-						--add-opens java.base/java.lang=ALL-UNNAMED
-						--add-opens java.base/java.util=ALL-UNNAMED
-						--add-opens java.base/java.lang.reflect=ALL-UNNAMED
-						--add-opens java.base/sun.security.action=ALL-UNNAMED
-						--add-opens java.base/jdk.internal.misc=ALL-UNNAMED
-						--add-opens java.base/java.net=ALL-UNNAMED
-						--add-opens java.base/java.nio=ALL-UNNAMED
-						--add-opens=java.base/java.lang.invoke=ALL-UNNAMED
-					</argLine>
 					<forkCount>1</forkCount>
 					<reuseForks>false</reuseForks>
 				</configuration>
@@ -262,7 +266,6 @@
 							<mainClass>de.swa.gmaf.Service</mainClass>
 						</manifest>
 						<manifestEntries>
-							<Add-Opens>java.base/java.lang java.base/java.util java.base/java.lang.reflect java.base/sun.security.action java.base/jdk.internal.misc java.base/java.net java.base/java.nio java.base/java.lang.invoke</Add-Opens>
 						</manifestEntries>
 					</archive>
 
@@ -300,7 +303,7 @@
 					<dependency>
 						<groupId>com.sun.xml.bind</groupId>
 						<artifactId>jaxb-impl</artifactId>
-						<version>2.3.2</version>
+						<version>${jaxb-runtime.version}</version>
 					</dependency>
 				</dependencies>
 			</plugin>
@@ -311,24 +314,6 @@
 				<version>3.1.0</version>
 				<configuration>
 					<mainClass>de.swa.gmaf.Service</mainClass>
-					<jvmArgs>
-						<jvmArg>--add-opens</jvmArg>
-						<jvmArg>java.base/java.lang=ALL-UNNAMED</jvmArg>
-						<jvmArg>--add-opens</jvmArg>
-						<jvmArg>java.base/java.util=ALL-UNNAMED</jvmArg>
-						<jvmArg>--add-opens</jvmArg>
-						<jvmArg>java.base/java.lang.reflect=ALL-UNNAMED</jvmArg>
-						<jvmArg>--add-opens</jvmArg>
-						<jvmArg>java.base/sun.security.action=ALL-UNNAMED</jvmArg>
-						<jvmArg>--add-opens</jvmArg>
-						<jvmArg>java.base/jdk.internal.misc=ALL-UNNAMED</jvmArg>
-						<jvmArg>--add-opens</jvmArg>
-						<jvmArg>java.base/java.net=ALL-UNNAMED</jvmArg>
-						<jvmArg>--add-opens</jvmArg>
-						<jvmArg>java.base/java.nio=ALL-UNNAMED</jvmArg>
-						<jvmArg>--add-opens</jvmArg>
-						<jvmArg>java.base/java.lang.invoke=ALL-UNNAMED</jvmArg>
-					</jvmArgs>
 				</configuration>
 			</plugin>
 
@@ -344,7 +329,10 @@
 							<mainClass>de.swa.gmaf.Service</mainClass>
 						</manifest>
 						<manifestEntries>
-							<Add-Opens>java.base/java.lang java.base/java.util java.base/java.lang.reflect java.base/sun.security.action java.base/jdk.internal.misc java.base/java.net java.base/java.nio java.base/java.lang.invoke</Add-Opens>
+							<Add-Opens>java.base/java.lang java.base/java.util java.base/java.lang.reflect
+								java.base/sun.security.action java.base/jdk.internal.misc java.base/java.net
+								java.base/java.nio java.base/java.lang.invoke
+							</Add-Opens>
 						</manifestEntries>
 					</archive>
 				</configuration>
