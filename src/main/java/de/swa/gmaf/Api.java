@@ -1,5 +1,6 @@
 package de.swa.gmaf;
 
+import com.fasterxml.jackson.jakarta.rs.json.JacksonJsonProvider;
 import io.swagger.v3.jaxrs2.integration.JaxrsOpenApiContextBuilder;
 import io.swagger.v3.oas.integration.OpenApiConfigurationException;
 import io.swagger.v3.oas.integration.SwaggerConfiguration;
@@ -24,6 +25,7 @@ public class Api extends ResourceConfig {
         packages("de.swa.gmaf.api");
         register(OpenApiResource.class);
         register(SwaggerSerializers.class);
+        register(JacksonJsonProvider.class);
         OpenAPI openAPI = new OpenAPI()
                 .info(new Info()
                         .title("GMAF API")

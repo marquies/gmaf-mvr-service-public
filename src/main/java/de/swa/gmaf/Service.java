@@ -3,6 +3,8 @@ package de.swa.gmaf;
 import java.io.IOException;
 import java.net.URI;
 
+
+
 import jakarta.ws.rs.container.ContainerRequestContext;
 import jakarta.ws.rs.container.ContainerResponseContext;
 import jakarta.ws.rs.container.ContainerResponseFilter;
@@ -23,9 +25,12 @@ public class Service {
     private static HttpServer restServer;
     private static Endpoint soapEndpoint;
 
+
     public static void main(String[] args) {
         new Service().start();
     }
+
+
 
     public synchronized void start() {
         if (running) {

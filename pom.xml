@@ -296,13 +296,6 @@
 						<manifest>
 							<mainClass>de.swa.gmaf.Service</mainClass>
 						</manifest>
-						<manifestEntries>
-							<Add-Opens>java.base/java.lang java.base/java.util java.base/java.lang.reflect
-								java.base/sun.security.action java.base/jdk.internal.misc java.base/java.net
-								java.base/java.nio java.base/java.lang.invoke java.base/java.lang.module
-								java.base/java.lang.ref java.base/java.io java.base/java.security
-							</Add-Opens>
-						</manifestEntries>
 					</archive>
 					<descriptorRefs>
 						<descriptorRef>jar-with-dependencies</descriptorRef>

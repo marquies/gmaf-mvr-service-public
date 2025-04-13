@@ -37,12 +37,12 @@ class ServiceTest {
         closeable = MockitoAnnotations.openMocks(this);
         
         // Configure mock
-//        when(mockConfig.getServerName()).thenReturn(TEST_SERVER);
-//        when(mockConfig.getServerPort()).thenReturn(TEST_SOAP_PORT);
-//        when(mockConfig.getRestServicePort()).thenReturn(TEST_REST_PORT);
-//        when(mockConfig.getContext()).thenReturn(TEST_CONTEXT);
-//        when(mockConfig.getCollectionName()).thenReturn("test_collection");
-//        when(mockConfig.isAutoProcess()).thenReturn(false);
+        when(mockConfig.getServerName()).thenReturn(TEST_SERVER);
+        when(mockConfig.getServerPort()).thenReturn(TEST_SOAP_PORT);
+        when(mockConfig.getRestServicePort()).thenReturn(TEST_REST_PORT);
+        when(mockConfig.getContext()).thenReturn(TEST_CONTEXT);
+        when(mockConfig.getCollectionName()).thenReturn("test_collection");
+        when(mockConfig.isAutoProcess()).thenReturn(false);
         
         // Replace singleton instance with mock
         Configuration.setInstance(mockConfig);
