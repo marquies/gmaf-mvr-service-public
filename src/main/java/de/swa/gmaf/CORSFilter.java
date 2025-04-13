@@ -9,7 +9,7 @@ import javax.ws.rs.container.ContainerResponseFilter;
  * Filter to add CORS headers to responses
  */
 public class CORSFilter implements ContainerResponseFilter {
-    @Override
+
     public void filter(ContainerRequestContext request,
                        ContainerResponseContext response) throws IOException {
         response.getHeaders().add("Access-Control-Allow-Origin", "*");

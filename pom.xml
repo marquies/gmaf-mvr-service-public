@@ -124,6 +124,12 @@
 			<artifactId>jersey-grizzly</artifactId>
 			<version>1.19.4</version>
 		</dependency>
+		<dependency>
+			<groupId>com.sun.grizzly</groupId>
+			<artifactId>grizzly-servlet-webserver</artifactId>
+			<version>1.9.18-i</version>
+			<scope>test</scope>
+		</dependency>
 
 		<!-- JAX-WS dependencies -->
 		<dependency>
