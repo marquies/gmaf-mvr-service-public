@@ -6,7 +6,7 @@
 
 	<groupId>de.swa</groupId>
 	<artifactId>gmaf-service-mvr</artifactId>
-	<version>1.0.7-SNAPSHOT</version>
+	<version>1.0.7</version>
 	<packaging>jar</packaging>
 
 	<name>GMAF MVR Service</name>
