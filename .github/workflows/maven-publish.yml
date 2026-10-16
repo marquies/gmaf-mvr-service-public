@@ -28,8 +28,8 @@ jobs:
     - name: Build with Maven
       run: mvn -B  --no-transfer-progress package -s $GITHUB_WORKSPACE/.github/workflows/maven-settings.xml -P github --file pom.xml
       env:
-        USER_NAME: ${{ secrets.USER_NAME }}
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        USER_NAME: ${{ github.repository_owner }}
+        ACCESS_TOKEN: ${{ secrets.PAT }}
     - name: JUnit Report Action
       uses: mikepenz/action-junit-report@v3.7.6
       with:
@@ -58,5 +58,5 @@ jobs:
       run: mvn -B --no-transfer-progress deploy -DskipTests -s $GITHUB_WORKSPACE/.github/workflows/maven-settings.xml -P github
       env:
         GITHUB_TOKEN: ${{ github.token }}
-        USER_NAME: ${{ secrets.USER_NAME }}
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        USER_NAME: ${{ github.repository_owner }}
+        ACCESS_TOKEN: ${{ secrets.PAT }}
