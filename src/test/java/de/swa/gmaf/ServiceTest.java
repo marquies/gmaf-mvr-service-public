@@ -4,6 +4,7 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
+import org.junit.jupiter.api.io.TempDir;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 import org.mockito.junit.jupiter.MockitoExtension;
@@ -13,6 +14,8 @@ import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
+import java.nio.file.Path;
+import java.util.Vector;
 
 import de.swa.ui.Configuration;
 
@@ -29,6 +32,10 @@ class ServiceTest {
     @Mock
     private Configuration mockConfig;
     
+    // static: the processing jobs are a singleton set up by the first start()
+    @TempDir
+    static Path tempDir;
+
     private AutoCloseable closeable;
     private Service service;
     
@@ -43,6 +50,12 @@ class ServiceTest {
         when(mockConfig.getContext()).thenReturn(TEST_CONTEXT);
         when(mockConfig.getCollectionName()).thenReturn("test_collection");
         when(mockConfig.isAutoProcess()).thenReturn(false);
+        // read only by the first start(), which sets up the processing jobs
+        lenient().when(mockConfig.getJobRepository()).thenReturn(tempDir.resolve("jobs").toString());
+        lenient().when(mockConfig.getCollectionPaths()).thenReturn(new Vector<>(java.util.List.of(tempDir.resolve("collection").toString())));
+        lenient().when(mockConfig.getMMFGRepo()).thenReturn(tempDir.resolve("mmfg").toString());
+        lenient().when(mockConfig.getGraphCodeRepository()).thenReturn(tempDir.resolve("gc").toString());
+        lenient().when(mockConfig.getProcessingThreads()).thenReturn(1);
         
         // Replace singleton instance with mock
         Configuration.setInstance(mockConfig);
