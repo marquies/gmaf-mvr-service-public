@@ -30,10 +30,19 @@ jobs:
 
       # tests run here (unlike publish-snapshot): a release must pass them
       - name: Build, test and publish to GitHub Packages
+        if: ${{ !endsWith(github.repository, '-public') }}
         run: mvn -B --no-transfer-progress deploy -s $GITHUB_WORKSPACE/.github/workflows/maven-settings.xml -P github
         env:
           USER_NAME: ${{ secrets.USER_NAME }}
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+
+      # the -public twins only attach the jar: the private repo publishes the package
+      - name: Build and test
+        if: ${{ endsWith(github.repository, '-public') }}
+        run: mvn -B --no-transfer-progress verify -s $GITHUB_WORKSPACE/.github/workflows/maven-settings.xml -P github
+        env:
+          USER_NAME: ${{ github.actor }}
+          ACCESS_TOKEN: ${{ github.token }}
 
       - name: Create GitHub Release
         run: gh release create "$GITHUB_REF_NAME" target/*.jar --verify-tag --generate-notes
