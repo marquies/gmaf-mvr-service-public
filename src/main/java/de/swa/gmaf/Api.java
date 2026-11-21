@@ -35,7 +35,8 @@ public class Api extends ResourceConfig {
 
         SwaggerConfiguration config = new SwaggerConfiguration()
                 .openAPI(openAPI)
-                .resourceClasses(Set.of("de.swa.gmaf.api.GMAF_Facade_RESTImpl"))
+                .resourceClasses(Set.of("de.swa.gmaf.api.GMAF_Facade_RESTImpl",
+                        "de.swa.gmaf.api.GMAF_JobsResource"))
                 .prettyPrint(true);
 
         try {
